@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Source — AI Stack Resource Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    /* ── Reset & Base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --canvas:    #050805;
+      --surf-soft: #0D110D;
+      --surf-card: #131A13;
+      --surf-dark: #1E271E;
+      --border:    #1A2A1A;
+      --border-s:  #243624;
+      --ink:       #E8F5E8;
+      --body:      #C4D4C4;
+      --muted:     #7A9A7A;
+      --hint:      #4A6A4A;
+      --green:     #39D353;
+      --silver:    #A8B8C8;
+      --glow:      rgba(57, 211, 83, 0.18);
+      --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+      --font-sans: 'Inter', -apple-system, sans-serif;
+      --max-w:     1140px;
+      --ease:      cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--canvas);
+      color: var(--body);
+      font-family: var(--font-sans);
+      font-size: 16px;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    a { color: var(--green); text-decoration: none; transition: color 150ms var(--ease); }
+    a:hover { color: var(--silver); }
+
+    /* ── Matrix Rain ── */
+    #matrix-canvas {
+      position: fixed; top: 0; left: 0;
+      width: 100vw; height: 100vh;
+      pointer-events: none; z-index: 0;
+      opacity: 0.35;
+    }
+
+    /* ── Layout helpers ── */
+    .container { max-width: var(--max-w); margin: 0 auto; padding: 0 24px; }
+    .eyebrow {
+      font-family: var(--font-mono);
+      font-size: 11px; font-weight: 500;
+      color: var(--green); letter-spacing: 0.12em;
+      text-transform: uppercase; margin-bottom: 12px;
+    }
+    section { position: relative; z-index: 1; }
+
+    /* ── Nav ── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0;
+      z-index: 100; padding: 16px 24px;
+      display: flex; align-items: center; justify-content: space-between;
+      background: rgba(5, 8, 5, 0.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-brand {
+      font-family: var(--font-mono);
+      font-weight: 700; font-size: 15px;
+      color: var(--green);
+      letter-spacing: 0.08em;
+    }
+    .nav-links { display: flex; gap: 24px; }
+    .nav-links a {
+      font-family: var(--font-mono);
+      font-size: 12px; color: var(--muted);
+      letter-spacing: 0.06em;
+    }
+    .nav-links a:hover { color: var(--green); }
+
+    /* ── Hero ── */
+    #hero {
+      min-height: 100vh;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      text-align: center;
+      padding: 100px 24px 80px;
+    }
+    .hero-tag {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: var(--font-mono); font-size: 11px;
+      color: var(--green); letter-spacing: 0.1em;
+      border: 1px solid var(--border-s);
+      padding: 6px 14px; border-radius: 4px;
+      margin-bottom: 32px;
+      background: rgba(57, 211, 83, 0.05);
+    }
+    .hero-tag::before { content: '●'; font-size: 8px; animation: blink 1.2s step-end infinite; }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+
+    h1 {
+      font-family: var(--font-mono);
+      font-size: clamp(48px, 8vw, 96px);
+      font-weight: 700;
+      color: var(--green);
+      letter-spacing: -0.02em;
+      line-height: 1;
+      margin-bottom: 24px;
+      text-shadow: 0 0 40px rgba(57, 211, 83, 0.4);
+    }
+    #hero-title .char { display: inline-block; }
+    #hero-title .char.cycling { opacity: 0.6; }
+    #hero-title .char.locked  { opacity: 1; }
+
+    .tagline {
+      font-size: clamp(18px, 2.5vw, 22px);
+      color: var(--muted);
+      font-family: var(--font-sans);
+      margin-bottom: 56px;
+      max-width: 480px;
+    }
+
+    /* ── Stats bar ── */
+    .stats {
+      display: flex; gap: 0;
+      border: 1px solid var(--border-s);
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 48px;
+      background: rgba(19, 26, 19, 0.8);
+    }
+    .stat-item {
+      flex: 1; padding: 24px 32px;
+      text-align: center;
+      border-right: 1px solid var(--border-s);
+    }
+    .stat-item:last-child { border-right: none; }
+    .stat-number {
+      font-family: var(--font-mono);
+      font-size: clamp(28px, 4vw, 40px);
+      font-weight: 700; color: var(--green);
+      display: block;
+      text-shadow: 0 0 20px var(--glow);
+    }
+    .stat-label {
+      font-size: 12px; color: var(--muted);
+      font-family: var(--font-mono);
+      letter-spacing: 0.06em;
+      margin-top: 4px; display: block;
+    }
+
+    .cta-btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: var(--font-mono); font-size: 14px; font-weight: 600;
+      color: var(--canvas);
+      background: var(--green);
+      padding: 14px 32px; border-radius: 4px;
+      letter-spacing: 0.04em;
+      transition: all 200ms var(--ease);
+      box-shadow: 0 0 24px rgba(57, 211, 83, 0.3);
+    }
+    .cta-btn:hover {
+      background: #4AE864; color: var(--canvas);
+      box-shadow: 0 0 40px rgba(57, 211, 83, 0.5);
+      transform: translateY(-1px);
+    }
+
+    /* ── Section shared ── */
+    .section-header {
+      margin-bottom: 40px;
+      padding-top: 96px;
+    }
+    h2 {
+      font-family: var(--font-mono);
+      font-size: clamp(24px, 3vw, 32px);
+      font-weight: 600; color: var(--ink);
+      margin-bottom: 8px;
+    }
+    .section-sub {
+      color: var(--muted); font-size: 14px;
+    }
+
+    /* ── Search + Filter ── */
+    .search-bar {
+      display: flex; gap: 12px; margin-bottom: 20px;
+      flex-wrap: wrap; align-items: center;
+    }
+    #mcp-search {
+      flex: 1; min-width: 240px;
+      background: var(--surf-card);
+      border: 1px solid var(--border-s);
+      border-radius: 6px;
+      padding: 10px 16px;
+      font-family: var(--font-mono); font-size: 13px;
+      color: var(--ink);
+      outline: none;
+      transition: border-color 150ms var(--ease);
+    }
+    #mcp-search::placeholder { color: var(--hint); }
+    #mcp-search:focus { border-color: var(--green); }
+
+    .filter-pills {
+      display: flex; flex-wrap: wrap; gap: 8px;
+      margin-bottom: 28px;
+    }
+    .pill {
+      font-family: var(--font-mono); font-size: 11px;
+      padding: 5px 12px; border-radius: 4px;
+      border: 1px solid var(--border-s);
+      color: var(--muted); cursor: pointer;
+      transition: all 150ms var(--ease);
+      background: transparent;
+      letter-spacing: 0.04em;
+    }
+    .pill:hover { border-color: var(--green); color: var(--green); }
+    .pill.active {
+      background: rgba(57, 211, 83, 0.1);
+      border-color: var(--green); color: var(--green);
+    }
+
+    /* ── MCP Grid ── */
+    #mcp-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    .mcp-card {
+      background: var(--surf-card);
+      border: 1px solid var(--border);
+      border-radius: 8px; padding: 18px 20px;
+      transition: all 200ms var(--ease);
+      display: flex; flex-direction: column; gap: 10px;
+    }
+    .mcp-card:hover {
+      border-color: var(--border-s);
+      background: var(--surf-dark);
+      transform: translateY(-2px);
+    }
+    .mcp-name {
+      font-family: var(--font-mono); font-size: 13px;
+      font-weight: 600; color: var(--ink);
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .mcp-name a { color: var(--ink); }
+    .mcp-name a:hover { color: var(--green); }
+    .mcp-desc {
+      font-size: 13px; color: var(--muted);
+      line-height: 1.5;
+      display: -webkit-box; -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .mcp-meta {
+      display: flex; gap: 8px; flex-wrap: wrap; margin-top: auto;
+    }
+    .badge {
+      font-family: var(--font-mono); font-size: 10px;
+      padding: 3px 8px; border-radius: 3px;
+      letter-spacing: 0.04em;
+    }
+    .badge-cat {
+      background: rgba(168, 184, 200, 0.08);
+      border: 1px solid rgba(168, 184, 200, 0.2);
+      color: var(--silver);
+    }
+    .badge-src-ams {
+      background: rgba(57, 211, 83, 0.07);
+      border: 1px solid rgba(57, 211, 83, 0.2);
+      color: var(--green);
+    }
+    .badge-src-glama {
+      background: rgba(79, 195, 247, 0.07);
+      border: 1px solid rgba(79, 195, 247, 0.2);
+      color: #4FC3F7;
+    }
+
+    /* ── Pagination ── */
+    #mcp-pagination {
+      display: flex; gap: 8px; justify-content: center;
+      margin-bottom: 48px; flex-wrap: wrap;
+    }
+    .page-btn {
+      font-family: var(--font-mono); font-size: 12px;
+      padding: 7px 14px; border-radius: 4px;
+      border: 1px solid var(--border-s);
+      color: var(--muted); cursor: pointer;
+      background: transparent;
+      transition: all 150ms var(--ease);
+    }
+    .page-btn:hover { border-color: var(--green); color: var(--green); }
+    .page-btn.active {
+      background: rgba(57, 211, 83, 0.1);
+      border-color: var(--green); color: var(--green);
+    }
+    .mcp-count {
+      font-family: var(--font-mono); font-size: 12px;
+      color: var(--hint); text-align: center; margin-bottom: 16px;
+    }
+
+    /* ── Trending ── */
+    #trending { background: var(--surf-soft); padding-bottom: 80px; }
+    .tabs {
+      display: flex; gap: 4px; margin-bottom: 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    .tab-btn {
+      font-family: var(--font-mono); font-size: 13px;
+      padding: 10px 20px; border: none;
+      background: transparent; color: var(--muted);
+      cursor: pointer; border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      transition: all 150ms var(--ease);
+      letter-spacing: 0.04em;
+    }
+    .tab-btn:hover { color: var(--ink); }
+    .tab-btn.active { color: var(--green); border-bottom-color: var(--green); }
+
+    #trending-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 16px;
+    }
+    .repo-card {
+      background: var(--surf-card);
+      border: 1px solid var(--border);
+      border-radius: 8px; padding: 20px;
+      display: flex; flex-direction: column; gap: 10px;
+      transition: all 200ms var(--ease);
+    }
+    .repo-card:hover {
+      border-color: var(--border-s);
+      transform: translateY(-2px);
+    }
+    .repo-rank {
+      font-family: var(--font-mono); font-size: 10px;
+      color: var(--hint); font-weight: 600;
+    }
+    .repo-name {
+      font-family: var(--font-mono); font-size: 14px;
+      font-weight: 600; color: var(--ink);
+    }
+    .repo-name a { color: var(--ink); }
+    .repo-name a:hover { color: var(--green); }
+    .repo-desc {
+      font-size: 13px; color: var(--muted); line-height: 1.5;
+      display: -webkit-box; -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .repo-stats {
+      display: flex; gap: 16px; margin-top: auto;
+      font-family: var(--font-mono); font-size: 12px;
+      color: var(--hint); flex-wrap: wrap;
+    }
+    .repo-stars { color: var(--green); font-weight: 600; }
+    .repo-lang {
+      padding: 2px 8px; border-radius: 3px;
+      background: rgba(168, 184, 200, 0.08);
+      border: 1px solid rgba(168, 184, 200, 0.15);
+      color: var(--silver); font-size: 10px;
+    }
+    .repo-momentum { color: var(--muted); }
+
+    /* ── Footer ── */
+    footer {
+      position: relative; z-index: 1;
+      background: var(--canvas);
+      border-top: 1px solid var(--border);
+      padding: 48px 24px;
+      text-align: center;
+    }
+    .footer-brand {
+      font-family: var(--font-mono); font-size: 18px;
+      font-weight: 700; color: var(--green);
+      letter-spacing: 0.08em; margin-bottom: 16px;
+    }
+    .footer-sources {
+      font-family: var(--font-mono); font-size: 12px;
+      color: var(--muted); margin-bottom: 8px;
+    }
+    .footer-sources a { color: var(--muted); }
+    .footer-sources a:hover { color: var(--green); }
+    .footer-credit {
+      font-size: 12px; color: var(--hint);
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 640px) {
+      .stats { flex-direction: column; }
+      .stat-item { border-right: none; border-bottom: 1px solid var(--border-s); }
+      .stat-item:last-child { border-bottom: none; }
+      nav .nav-links { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Matrix Rain -->
+<canvas id="matrix-canvas"></canvas>
+
+<!-- Nav -->
+<nav>
+  <div class="nav-brand">THE SOURCE</div>
+  <div class="nav-links">
+    <a href="#mcp-catalog">MCP Index</a>
+    <a href="#trending">Trending</a>
+    <a href="#about">About</a>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section id="hero">
+  <div class="hero-tag">SYSTEM ONLINE</div>
+  <h1 id="hero-title">THE SOURCE</h1>
+  <p class="tagline">The AI stack, indexed. Every MCP server. Today's trending repos.</p>
+  <div class="stats">
+    <div class="stat-item">
+      <span class="stat-number" data-target="2440" id="stat-mcps">0</span>
+      <span class="stat-label">MCP Servers</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number" data-target="53" id="stat-cats">0</span>
+      <span class="stat-label">Categories</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number" data-target="2" id="stat-sources">0</span>
+      <span class="stat-label">Data Sources</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number" data-target="15" id="stat-trending">0</span>
+      <span class="stat-label">Trending Today</span>
+    </div>
+  </div>
+  <a href="#mcp-catalog" class="cta-btn">Plug In ↓</a>
+</section>
+
+<!-- MCP Catalog -->
+<section id="mcp-catalog">
+  <div class="container">
+    <div class="section-header">
+      <div class="eyebrow">// PROTOCOL INDEX</div>
+      <h2>MCP Servers</h2>
+      <p class="section-sub">2,440 Model Context Protocol servers from awesome-mcp-servers + glama.ai</p>
+    </div>
+    <div class="search-bar">
+      <input type="search" id="mcp-search" placeholder="search protocols..." autocomplete="off" spellcheck="false">
+      <span id="mcp-count-label" class="mcp-count" style="align-self:center;margin:0;"></span>
+    </div>
+    <div class="filter-pills" id="filter-pills">
+      <button class="pill active" data-cat="">All</button>
+    </div>
+    <div id="mcp-grid"></div>
+    <div id="mcp-pagination"></div>
+  </div>
+</section>
+
+<!-- GitHub Trending -->
+<section id="trending">
+  <div class="container">
+    <div class="section-header">
+      <div class="eyebrow">// LIVE SIGNAL</div>
+      <h2>GitHub Trending</h2>
+      <p class="section-sub">What the open-source world is building right now</p>
+    </div>
+    <div class="tabs">
+      <button class="tab-btn active" data-period="daily">Today</button>
+      <button class="tab-btn" data-period="weekly">This Week</button>
+    </div>
+    <div id="trending-grid"></div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer id="about">
+  <div class="footer-brand">THE SOURCE</div>
+  <p class="footer-sources">
+    Data: <a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">awesome-mcp-servers</a> ·
+    <a href="https://glama.ai/mcp/servers" target="_blank">glama.ai</a> ·
+    <a href="https://github.com/trending" target="_blank">github.com/trending</a>
+  </p>
+  <p class="footer-credit">Built with Claude Code + Firecrawl MCP · WAT Day 5 · 2026</p>
+</footer>
+
+<!-- Data -->
+<script src="data/mcps.js"></script>
+<script src="data/trending.js"></script>
+
+<script>
+// ── Matrix Rain ──────────────────────────────────────────────────────────────
+(function() {
+  const canvas = document.getElementById('matrix-canvas');
+  const ctx = canvas.getContext('2d');
+  const CHARS = 'アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%^&*<>/\\|{}[]';
+  const FONT_SIZE = 13;
+  let cols, drops, frame = 0;
+
+  function resize() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    cols = Math.floor(canvas.width / FONT_SIZE);
+    drops = new Array(cols).fill(0).map(() => Math.random() * -50);
+  }
+
+  function draw() {
+    // Fade trail
+    ctx.fillStyle = 'rgba(5, 8, 5, 0.055)';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.font = FONT_SIZE + 'px JetBrains Mono, monospace';
+
+    for (let i = 0; i < cols; i++) {
+      const y = drops[i] * FONT_SIZE;
+      if (y < 0) { drops[i] += 0.5; continue; }
+
+      // Head character — bright
+      ctx.fillStyle = frame % 8 === 0 ? '#FFFFFF' : '#39D353';
+      ctx.fillText(CHARS[Math.floor(Math.random() * CHARS.length)], i * FONT_SIZE, y);
+
+      // Trail characters — dimmer
+      for (let j = 1; j < 5; j++) {
+        const ty = y - j * FONT_SIZE;
+        if (ty < 0) continue;
+        const alpha = (5 - j) / 5 * 0.5;
+        ctx.fillStyle = `rgba(57, 211, 83, ${alpha})`;
+        ctx.fillText(CHARS[Math.floor(Math.random() * CHARS.length)], i * FONT_SIZE, ty);
+      }
+
+      if (y > canvas.height && Math.random() > 0.975) drops[i] = 0;
+      drops[i] += 0.6;
+    }
+    frame++;
+  }
+
+  resize();
+  window.addEventListener('resize', resize);
+  window.matchMedia('(prefers-reduced-motion: reduce)').matches
+    ? canvas.style.display = 'none'
+    : setInterval(draw, 45);
+})();
+
+// ── Matrix Title Decode (looping) ────────────────────────────────────────────
+(function() {
+  const DECODE_CHARS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZアイウエオカキクケコサシスセソ0123456789@#$%^&*<>/|{}[]';
+  const LOCK_DELAY   = 300;  // ms between each char locking
+  const START_DELAY  = 600;  // scramble before first lock (600 + 8×300 = 3000ms total)
+  const PAUSE_AFTER  = 3000; // ms to sit static before restarting
+
+  const el = document.getElementById('hero-title');
+  const text = el.textContent;
+
+  // Build per-character spans once
+  el.innerHTML = text.split('').map(ch =>
+    ch === ' '
+      ? '<span class="char" style="display:inline-block;width:0.4em"> </span>'
+      : `<span class="char cycling" data-final="${ch}">${ch}</span>`
+  ).join('');
+
+  const spans = Array.from(el.querySelectorAll('.char[data-final]'));
+  const total = spans.length;
+
+  function runDecode() {
+    // Reset all to cycling
+    spans.forEach(s => {
+      s.classList.remove('locked');
+      s.classList.add('cycling');
+    });
+
+    let lockedCount = 0;
+
+    const cycleInterval = setInterval(() => {
+      spans.forEach(s => {
+        if (!s.classList.contains('locked')) {
+          s.textContent = DECODE_CHARS[Math.floor(Math.random() * DECODE_CHARS.length)];
+        }
+      });
+    }, 55);
+
+    // Lock left-to-right
+    spans.forEach((span, i) => {
+      setTimeout(() => {
+        span.textContent = span.dataset.final;
+        span.classList.remove('cycling');
+        span.classList.add('locked');
+        lockedCount++;
+        if (lockedCount === total) {
+          clearInterval(cycleInterval);
+          // Sit static, then loop
+          setTimeout(runDecode, PAUSE_AFTER);
+        }
+      }, START_DELAY + i * LOCK_DELAY);
+    });
+  }
+
+  runDecode();
+})();
+
+// ── Counter animation ────────────────────────────────────────────────────────
+function animateCounter(el, target, duration) {
+  const start = performance.now();
+  function step(now) {
+    const p = Math.min((now - start) / duration, 1);
+    const ease = 1 - Math.pow(1 - p, 3); // ease-out-cubic
+    el.textContent = Math.floor(ease * target).toLocaleString();
+    if (p < 1) requestAnimationFrame(step);
+    else el.textContent = target.toLocaleString();
+  }
+  requestAnimationFrame(step);
+}
+
+const io = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      const el = e.target;
+      animateCounter(el, +el.dataset.target, 1800);
+      io.unobserve(el);
+    }
+  });
+}, { threshold: 0.3 });
+
+document.querySelectorAll('.stat-number[data-target]').forEach(el => io.observe(el));
+
+// ── MCP Catalog ──────────────────────────────────────────────────────────────
+(function() {
+  const PER_PAGE = 24;
+  let filtered = [];
+  let page = 0;
+  let activeCat = '';
+  let query = '';
+
+  // Build category pills
+  const pillsEl = document.getElementById('filter-pills');
+  (window.MCP_CATEGORIES || []).slice(0, 24).forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'pill';
+    btn.dataset.cat = cat;
+    btn.textContent = cat;
+    pillsEl.appendChild(btn);
+  });
+
+  pillsEl.addEventListener('click', e => {
+    const btn = e.target.closest('.pill');
+    if (!btn) return;
+    pillsEl.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    activeCat = btn.dataset.cat;
+    page = 0;
+    render();
+  });
+
+  document.getElementById('mcp-search').addEventListener('input', e => {
+    query = e.target.value.toLowerCase().trim();
+    page = 0;
+    render();
+  });
+
+  function filter() {
+    const data = window.MCP_DATA || [];
+    return data.filter(m => {
+      const matchCat = !activeCat || m.c === activeCat;
+      if (!matchCat) return false;
+      if (!query) return true;
+      return (m.n || '').toLowerCase().includes(query) ||
+             (m.d || '').toLowerCase().includes(query) ||
+             (m.c || '').toLowerCase().includes(query);
+    });
+  }
+
+  function renderCard(m) {
+    const srcClass = m.s === 'glama' ? 'badge-src-glama' : 'badge-src-ams';
+    const srcLabel = m.s === 'glama' ? 'glama.ai' : 'awesome-mcp';
+    const cat = m.c ? `<span class="badge badge-cat">${esc(m.c)}</span>` : '';
+    return `<div class="mcp-card">
+      <div class="mcp-name"><a href="${esc(m.u)}" target="_blank" rel="noopener">${esc(m.n)}</a></div>
+      ${m.d ? `<div class="mcp-desc">${esc(m.d)}</div>` : ''}
+      <div class="mcp-meta">${cat}<span class="badge ${srcClass}">${srcLabel}</span></div>
+    </div>`;
+  }
+
+  function renderPagination(total) {
+    const totalPages = Math.ceil(total / PER_PAGE);
+    const pEl = document.getElementById('mcp-pagination');
+    if (totalPages <= 1) { pEl.innerHTML = ''; return; }
+
+    let html = '';
+    const start = Math.max(0, page - 2);
+    const end = Math.min(totalPages - 1, page + 2);
+
+    if (start > 0) html += `<button class="page-btn" data-p="0">1</button>${start > 1 ? '<span style="color:var(--hint);font-size:12px;padding:0 4px">...</span>' : ''}`;
+    for (let i = start; i <= end; i++) {
+      html += `<button class="page-btn${i === page ? ' active' : ''}" data-p="${i}">${i + 1}</button>`;
+    }
+    if (end < totalPages - 1) html += `${end < totalPages - 2 ? '<span style="color:var(--hint);font-size:12px;padding:0 4px">...</span>' : ''}<button class="page-btn" data-p="${totalPages - 1}">${totalPages}</button>`;
+
+    pEl.innerHTML = html;
+    pEl.querySelectorAll('.page-btn').forEach(btn => {
+      btn.addEventListener('click', () => { page = +btn.dataset.p; render(); window.scrollTo({ top: document.getElementById('mcp-catalog').offsetTop - 80, behavior: 'smooth' }); });
+    });
+  }
+
+  function render() {
+    filtered = filter();
+    const slice = filtered.slice(page * PER_PAGE, (page + 1) * PER_PAGE);
+    document.getElementById('mcp-grid').innerHTML = slice.map(renderCard).join('');
+    renderPagination(filtered.length);
+    document.getElementById('mcp-count-label').textContent =
+      `${filtered.length.toLocaleString()} result${filtered.length !== 1 ? 's' : ''}`;
+  }
+
+  render();
+})();
+
+// ── Trending Repos ───────────────────────────────────────────────────────────
+(function() {
+  let period = 'daily';
+
+  document.querySelector('.tabs').addEventListener('click', e => {
+    const btn = e.target.closest('.tab-btn');
+    if (!btn) return;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    period = btn.dataset.period;
+    render();
+  });
+
+  function renderCard(repo, i) {
+    const lang = repo.language ? `<span class="repo-lang">${esc(repo.language)}</span>` : '';
+    const stars = repo.stars ? `<span class="repo-stars">⭐ ${esc(repo.stars)}</span>` : '';
+    const momentum = repo.momentum ? `<span class="repo-momentum">${esc(repo.momentum)}</span>` : '';
+    return `<div class="repo-card">
+      <div class="repo-rank">#${i + 1}</div>
+      <div class="repo-name"><a href="${esc(repo.url)}" target="_blank" rel="noopener">${esc(repo.fullName)}</a></div>
+      ${repo.description ? `<div class="repo-desc">${esc(repo.description)}</div>` : ''}
+      <div class="repo-stats">${stars}${lang}${momentum}</div>
+    </div>`;
+  }
+
+  function render() {
+    const data = (window.TRENDING_DATA || {})[period] || [];
+    document.getElementById('trending-grid').innerHTML = data.map(renderCard).join('');
+  }
+
+  render();
+})();
+
+// ── Utility ──────────────────────────────────────────────────────────────────
+function esc(s) {
+  if (!s) return '';
+  return String(s)
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "$description": "The Source — brand tokens — DTCG 2025.10",
+  "color": {
+    "canvas":  { "$value": "#050805", "$type": "color", "$description": "Page background — near-black with faint green tint" },
+    "surface": {
+      "soft":   { "$value": "#0D110D", "$type": "color", "$description": "Section backgrounds" },
+      "strong": { "$value": "#131A13", "$type": "color", "$description": "Cards, panels, modals" },
+      "dark":   { "$value": "#1E271E", "$type": "color", "$description": "Elevated surfaces, nav" }
+    },
+    "border": {
+      "hairline": { "$value": "#1A2A1A", "$type": "color", "$description": "1px dividers" },
+      "strong":   { "$value": "#243624", "$type": "color", "$description": "Card outlines" }
+    },
+    "text": {
+      "ink":   { "$value": "#E8F5E8", "$type": "color", "$description": "Display + primary headings" },
+      "body":  { "$value": "#C4D4C4", "$type": "color", "$description": "Body copy" },
+      "muted": { "$value": "#7A9A7A", "$type": "color", "$description": "Secondary labels, metadata, counts" },
+      "hint":  { "$value": "#4A6A4A", "$type": "color", "$description": "Placeholder, disabled" }
+    },
+    "primary":   { "$value": "#39D353", "$type": "color", "$description": "Green accent — system-online, not Halloween neon. One moment per view." },
+    "secondary": { "$value": "#A8B8C8", "$type": "color", "$description": "Metallic silver — whisper accent only, never louder than primary" },
+    "onColor": {
+      "on-primary":   { "$value": "#050805", "$type": "color", "$description": "Dark text on green buttons/badges" },
+      "on-secondary": { "$value": "#050805", "$type": "color", "$description": "Dark text on silver elements" },
+      "on-dark":      { "$value": "#E8F5E8", "$type": "color", "$description": "Light text on dark surfaces" }
+    },
+    "link": {
+      "default": { "$value": "#39D353", "$type": "color", "$description": "Links inherit primary green" },
+      "hover":   { "$value": "#A8B8C8", "$type": "color", "$description": "Silver on hover — intentional shift" }
+    },
+    "state": {
+      "info":    { "$value": "#4FC3F7", "$type": "color", "$description": "Blue — informational" },
+      "success": { "$value": "#39D353", "$type": "color", "$description": "Alias: primary green" },
+      "warning": { "$value": "#FFB300", "$type": "color", "$description": "Amber" },
+      "danger":  { "$value": "#FF5252", "$type": "color", "$description": "Red" }
+    },
+    "glow": {
+      "primary": { "$value": "#39D353", "$type": "color", "$description": "Use as box-shadow color at low opacity (0.15–0.3) for the green glow effect" }
+    }
+  },
+  "fontFamily": {
+    "mono": { "$value": ["JetBrains Mono", "Fira Code", "Consolas", "monospace"], "$type": "fontFamily", "$description": "H1–H3, code blocks, labels, wordmark" },
+    "sans": { "$value": ["Inter", "DM Sans", "-apple-system", "sans-serif"], "$type": "fontFamily", "$description": "Body, captions, UI text, metadata" }
+  },
+  "typography": {
+    "display": { "$value": { "fontFamily": "{fontFamily.mono}", "fontSize": { "value": 64, "unit": "px" }, "fontWeight": 700, "lineHeight": 1.04 }, "$type": "typography", "$description": "Hero headline — monospace, impact" },
+    "title":   { "$value": { "fontFamily": "{fontFamily.mono}", "fontSize": { "value": 28, "unit": "px" }, "fontWeight": 600, "lineHeight": 1.2 }, "$type": "typography", "$description": "Section headings — monospace" },
+    "heading": { "$value": { "fontFamily": "{fontFamily.mono}", "fontSize": { "value": 20, "unit": "px" }, "fontWeight": 500, "lineHeight": 1.3 }, "$type": "typography", "$description": "Card headers, sub-sections — monospace" },
+    "body":    { "$value": { "fontFamily": "{fontFamily.sans}", "fontSize": { "value": 16, "unit": "px" }, "fontWeight": 400, "lineHeight": 1.6 }, "$type": "typography", "$description": "Body copy — Inter" },
+    "label":   { "$value": { "fontFamily": "{fontFamily.sans}", "fontSize": { "value": 14, "unit": "px" }, "fontWeight": 500, "lineHeight": 1.3 }, "$type": "typography", "$description": "UI labels, button text" },
+    "eyebrow": { "$value": { "fontFamily": "{fontFamily.mono}", "fontSize": { "value": 11, "unit": "px" }, "fontWeight": 500, "lineHeight": 1.3 }, "$type": "typography", "$description": "Micro-label above sections — mono, uppercase applied in render" },
+    "caption": { "$value": { "fontFamily": "{fontFamily.sans}", "fontSize": { "value": 12, "unit": "px" }, "fontWeight": 400, "lineHeight": 1.4 }, "$type": "typography", "$description": "Metadata, timestamps, source tags" },
+    "code":    { "$value": { "fontFamily": "{fontFamily.mono}", "fontSize": { "value": 14, "unit": "px" }, "fontWeight": 400, "lineHeight": 1.5 }, "$type": "typography", "$description": "Inline code, MCP install commands" }
+  },
+  "dimension": {
+    "space-1":  { "$value": { "value": 4,   "unit": "px" }, "$type": "dimension" },
+    "space-2":  { "$value": { "value": 8,   "unit": "px" }, "$type": "dimension" },
+    "space-4":  { "$value": { "value": 16,  "unit": "px" }, "$type": "dimension" },
+    "space-6":  { "$value": { "value": 24,  "unit": "px" }, "$type": "dimension" },
+    "space-8":  { "$value": { "value": 32,  "unit": "px" }, "$type": "dimension" },
+    "space-12": { "$value": { "value": 48,  "unit": "px" }, "$type": "dimension" },
+    "space-16": { "$value": { "value": 64,  "unit": "px" }, "$type": "dimension" },
+    "space-24": { "$value": { "value": 96,  "unit": "px" }, "$type": "dimension" },
+    "max-width": { "$value": { "value": 1140, "unit": "px" }, "$type": "dimension", "$description": "Content container max-width" },
+    "radius-sm":   { "$value": { "value": 4,    "unit": "px" }, "$type": "dimension", "$description": "Tags, badges" },
+    "radius-md":   { "$value": { "value": 8,    "unit": "px" }, "$type": "dimension", "$description": "Cards, panels" },
+    "radius-full": { "$value": { "value": 9999, "unit": "px" }, "$type": "dimension", "$description": "Pills — CTAs, stat badges" }
+  },
+  "motion": {
+    "ease":          { "$value": [0.4, 0, 0.2, 1], "$type": "cubicBezier", "$description": "Default ease-out" },
+    "ease-spring":   { "$value": [0.34, 1.56, 0.64, 1], "$type": "cubicBezier", "$description": "Subtle spring — hover reveals" },
+    "duration-fast": { "$value": { "value": 150, "unit": "ms" }, "$type": "duration", "$description": "Micro-interactions" },
+    "duration-base": { "$value": { "value": 240, "unit": "ms" }, "$type": "duration", "$description": "Standard transitions" },
+    "duration-slow": { "$value": { "value": 400, "unit": "ms" }, "$type": "duration", "$description": "Section reveals" },
+    "rain-speed":    { "$value": { "value": 50, "unit": "ms" }, "$type": "duration", "$description": "Matrix rain character update interval" }
+  }
+}

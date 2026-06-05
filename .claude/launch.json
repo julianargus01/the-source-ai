@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "the-source",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "/Users/gregfaysash/wat-builds/day5-website", "-p", "3050", "--no-clipboard"],
+      "port": 3050
+    }
+  ]
+}
