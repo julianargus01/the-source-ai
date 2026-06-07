@@ -5,120 +5,120 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": "28,514",
-      "momentum": "441 stars today"
+      "stars": "29,861",
+      "momentum": "1,097 stars today"
     },
     {
-      "fullName": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "stars": "32,994",
-      "momentum": "613 stars today"
+      "fullName": "sponsors/opencv",
+      "url": "https://github.com/sponsors/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": "87,924",
+      "momentum": "89 stars today"
     },
     {
-      "fullName": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "fullName": "sponsors/Leonxlnx",
+      "url": "https://github.com/sponsors/Leonxlnx",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": "36,015",
+      "momentum": "1,104 stars today"
+    },
+    {
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "54,112",
-      "momentum": "441 stars today"
-    },
-    {
-      "fullName": "sponsors/danielmiessler",
-      "url": "https://github.com/sponsors/danielmiessler",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "stars": "14,823",
-      "momentum": "63 stars today"
-    },
-    {
-      "fullName": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars": "1,665",
-      "momentum": "215 stars today"
-    },
-    {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": "22,046",
-      "momentum": "700 stars today"
-    },
-    {
-      "fullName": "sponsors/sveltejs",
-      "url": "https://github.com/sponsors/sveltejs",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "stars": "86,883",
-      "momentum": "34 stars today"
-    },
-    {
-      "fullName": "nginx/nginx",
-      "url": "https://github.com/nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "language": "C",
-      "stars": "30,623",
-      "momentum": "39 stars today"
-    },
-    {
-      "fullName": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "stars": "35,937",
-      "momentum": "159 stars today"
-    },
-    {
-      "fullName": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "stars": "134,450",
-      "momentum": "24 stars today"
+      "stars": "185,464",
+      "momentum": "1,117 stars today"
     },
     {
       "fullName": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars": "26,408",
-      "momentum": "783 stars today"
+      "stars": "26,956",
+      "momentum": "555 stars today"
     },
     {
-      "fullName": "sponsors/obra",
-      "url": "https://github.com/sponsors/obra",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": "219,364",
-      "momentum": "1,008 stars today"
-    },
-    {
-      "fullName": "sponsors/santifer",
-      "url": "https://github.com/sponsors/santifer",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars": "49,035",
-      "momentum": "203 stars today"
-    },
-    {
-      "fullName": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "language": "Python",
-      "stars": "101,725",
-      "momentum": "155 stars today"
-    },
-    {
-      "fullName": "sponsors/vitejs",
-      "url": "https://github.com/sponsors/vitejs",
-      "description": "Next generation frontend tooling. It's fast!",
+      "fullName": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars": "81,098",
-      "momentum": "71 stars today"
+      "stars": "18,575",
+      "momentum": "180 stars today"
+    },
+    {
+      "fullName": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": "47,222",
+      "momentum": "338 stars today"
+    },
+    {
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": "29,495",
+      "momentum": "304 stars today"
+    },
+    {
+      "fullName": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": "115,142",
+      "momentum": "197 stars today"
+    },
+    {
+      "fullName": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars": "6,477",
+      "momentum": "1,533 stars today"
+    },
+    {
+      "fullName": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "72,345",
+      "momentum": "355 stars today"
+    },
+    {
+      "fullName": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": "1,931",
+      "momentum": "262 stars today"
+    },
+    {
+      "fullName": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": "12,664",
+      "momentum": "242 stars today"
+    },
+    {
+      "fullName": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": "13,607",
+      "momentum": "21 stars today"
+    },
+    {
+      "fullName": "microsoft/pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "description": "PostgreSQL in-database durable execution",
+      "language": "Rust",
+      "stars": "1,317",
+      "momentum": "314 stars today"
     }
   ],
   "weekly": [
@@ -127,120 +127,120 @@
       "url": "https://github.com/sponsors/chopratejas",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": "15,372",
-      "momentum": "11,993 stars this week"
+      "stars": "16,571",
+      "momentum": "13,308 stars this week"
     },
     {
       "fullName": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": "146,021",
-      "momentum": "16,376 stars this week"
+      "stars": "147,018",
+      "momentum": "15,015 stars this week"
     },
     {
       "fullName": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars": "80,279",
-      "momentum": "11,388 stars this week"
-    },
-    {
-      "fullName": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "language": "HTML",
-      "stars": "6,211",
-      "momentum": "2,030 stars this week"
+      "stars": "80,875",
+      "momentum": "9,174 stars this week"
     },
     {
       "fullName": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars": "25,773",
-      "momentum": "2,944 stars this week"
+      "stars": "25,952",
+      "momentum": "2,992 stars this week"
     },
     {
       "fullName": "sponsors/affaan-m",
       "url": "https://github.com/sponsors/affaan-m",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": "208,845",
-      "momentum": "10,326 stars this week"
-    },
-    {
-      "fullName": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "language": "TypeScript",
-      "stars": "20,027",
-      "momentum": "1,933 stars this week"
+      "stars": "209,573",
+      "momentum": "10,351 stars this week"
     },
     {
       "fullName": "Open-LLM-VTuber/Open-LLM-VTuber",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
-      "stars": "10,143",
-      "momentum": "2,073 stars this week"
+      "stars": "10,285",
+      "momentum": "2,273 stars this week"
     },
     {
-      "fullName": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "language": "TypeScript",
-      "stars": "10,831",
-      "momentum": "2,317 stars this week"
+      "fullName": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": "6,376",
+      "momentum": "2,098 stars this week"
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "29,861",
+      "momentum": "1,801 stars this week"
     },
     {
       "fullName": "sponsors/Leonxlnx",
       "url": "https://github.com/sponsors/Leonxlnx",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars": "34,859",
-      "momentum": "6,044 stars this week"
+      "stars": "36,015",
+      "momentum": "6,085 stars this week"
     },
     {
-      "fullName": "run-llama/liteparse",
-      "url": "https://github.com/run-llama/liteparse",
-      "description": "A fast, helpful, and open-source document parser",
-      "language": "Rust",
-      "stars": "9,290",
-      "momentum": "2,380 stars this week"
+      "fullName": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": "20,287",
+      "momentum": "1,752 stars this week"
+    },
+    {
+      "fullName": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": "11,035",
+      "momentum": "2,318 stars this week"
     },
     {
       "fullName": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": "1,665",
-      "momentum": "212 stars this week"
+      "stars": "1,931",
+      "momentum": "360 stars this week"
     },
     {
       "fullName": "aquasecurity/trivy",
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars": "35,937",
-      "momentum": "559 stars this week"
+      "stars": "36,081",
+      "momentum": "711 stars this week"
     },
     {
-      "fullName": "hardikpandya/stop-slop",
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": "",
-      "stars": "8,949",
-      "momentum": "2,082 stars this week"
-    },
-    {
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": "130,560",
-      "momentum": "2,893 stars this week"
+      "stars": "23,007",
+      "momentum": "1,513 stars this week"
+    },
+    {
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": "185,464",
+      "momentum": "11,355 stars this week"
     }
   ]
 }
