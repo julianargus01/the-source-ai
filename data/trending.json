@@ -1,246 +1,246 @@
 {
   "daily": [
     {
-      "fullName": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars": "4,688",
-      "momentum": "718 stars today"
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": "22,707",
+      "momentum": "858 stars today"
     },
     {
       "fullName": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars": "9,546",
-      "momentum": "422 stars today"
-    },
-    {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": "32,892",
-      "momentum": "1,154 stars today"
-    },
-    {
-      "fullName": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "description": "Meshery, the cloud native manager",
-      "language": "TypeScript",
-      "stars": "10,968",
-      "momentum": "199 stars today"
-    },
-    {
-      "fullName": "sponsors/obra",
-      "url": "https://github.com/sponsors/obra",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": "230,771",
-      "momentum": "1,109 stars today"
-    },
-    {
-      "fullName": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars": "21,650",
-      "momentum": "712 stars today"
-    },
-    {
-      "fullName": "sponsors/RocketChat",
-      "url": "https://github.com/sponsors/RocketChat",
-      "description": "The Secure CommsOS™ for mission-critical operations",
-      "language": "TypeScript",
-      "stars": "45,525",
-      "momentum": "15 stars today"
-    },
-    {
-      "fullName": "continuedev/continue",
-      "url": "https://github.com/continuedev/continue",
-      "description": "open-source coding agent",
-      "language": "TypeScript",
-      "stars": "33,825",
-      "momentum": "38 stars today"
-    },
-    {
-      "fullName": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars": "49,975",
-      "momentum": "94 stars today"
-    },
-    {
-      "fullName": "krahets/hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "language": "Java",
-      "stars": "127,399",
-      "momentum": "109 stars today"
-    },
-    {
-      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "language": "Rust",
-      "stars": "7,574",
-      "momentum": "465 stars today"
-    },
-    {
-      "fullName": "sponsors/mattpocock",
-      "url": "https://github.com/sponsors/mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars": "133,103",
-      "momentum": "1,849 stars today"
-    },
-    {
-      "fullName": "yairm210/Unciv",
-      "url": "https://github.com/yairm210/Unciv",
-      "description": "Open-source Android/Desktop remake of Civ V",
-      "language": "Kotlin",
-      "stars": "10,597",
-      "momentum": "41 stars today"
+      "stars": "9,914",
+      "momentum": "369 stars today"
     },
     {
       "fullName": "sponsors/freeCodeCamp",
       "url": "https://github.com/sponsors/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": "449,032",
-      "momentum": "764 stars today"
+      "stars": "449,429",
+      "momentum": "417 stars today"
     },
     {
-      "fullName": "bytedance/UI-TARS-desktop",
-      "url": "https://github.com/bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "language": "TypeScript",
-      "stars": "36,633",
-      "momentum": "148 stars today"
-    }
-  ],
-  "weekly": [
-    {
-      "fullName": "apple/container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "stars": "38,157",
-      "momentum": "10,896 stars this week"
-    },
-    {
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars": "7,324",
-      "momentum": "5,190 stars this week"
-    },
-    {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "fullName": "sponsors/obra",
+      "url": "https://github.com/sponsors/obra",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "62,055",
-      "momentum": "11,431 stars this week"
+      "stars": "232,162",
+      "momentum": "1,435 stars today"
     },
     {
-      "fullName": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "fullName": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": "",
-      "stars": "19,282",
-      "momentum": "5,775 stars this week"
-    },
-    {
-      "fullName": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars": "124,880",
-      "momentum": "6,246 stars this week"
-    },
-    {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": "32,892",
-      "momentum": "6,427 stars this week"
-    },
-    {
-      "fullName": "sponsors/chopratejas",
-      "url": "https://github.com/sponsors/chopratejas",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "language": "Python",
-      "stars": "30,951",
-      "momentum": "9,766 stars this week"
-    },
-    {
-      "fullName": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars": "43,870",
-      "momentum": "7,226 stars this week"
-    },
-    {
-      "fullName": "sponsors/music-assistant",
-      "url": "https://github.com/sponsors/music-assistant",
-      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "language": "Python",
-      "stars": "2,662",
-      "momentum": "865 stars this week"
-    },
-    {
-      "fullName": "sponsors/asgeirtj",
-      "url": "https://github.com/sponsors/asgeirtj",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars": "43,049",
-      "momentum": "1,220 stars this week"
-    },
-    {
-      "fullName": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "description": "Meshery, the cloud native manager",
-      "language": "TypeScript",
-      "stars": "10,968",
-      "momentum": "488 stars this week"
-    },
-    {
-      "fullName": "sponsors/chatwoot",
-      "url": "https://github.com/sponsors/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "stars": "32,262",
-      "momentum": "1,930 stars this week"
+      "stars": "3,980",
+      "momentum": "286 stars today"
     },
     {
       "fullName": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": "4,688",
-      "momentum": "844 stars this week"
+      "stars": "6,731",
+      "momentum": "2,308 stars today"
     },
     {
-      "fullName": "mattermost/mattermost",
-      "url": "https://github.com/mattermost/mattermost",
-      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "fullName": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "stars": "11,127",
+      "momentum": "344 stars today"
+    },
+    {
+      "fullName": "sponsors/withastro",
+      "url": "https://github.com/sponsors/withastro",
+      "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars": "37,992",
-      "momentum": "918 stars this week"
+      "stars": "5,402",
+      "momentum": "164 stars today"
     },
     {
-      "fullName": "microsoft/PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "fullName": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "language": "TypeScript",
+      "stars": "21,765",
+      "momentum": "1,339 stars today"
+    },
+    {
+      "fullName": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": "51,691",
+      "momentum": "610 stars today"
+    },
+    {
+      "fullName": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": "38,581",
+      "momentum": "13 stars today"
+    },
+    {
+      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "stars": "7,837",
+      "momentum": "247 stars today"
+    },
+    {
+      "fullName": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "language": "C#",
+      "stars": "38,077",
+      "momentum": "22 stars today"
+    },
+    {
+      "fullName": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "language": "",
+      "stars": "14,249",
+      "momentum": "33 stars today"
+    },
+    {
+      "fullName": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": "7,431",
+      "momentum": "47 stars today"
+    }
+  ],
+  "weekly": [
+    {
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": "7,831",
+      "momentum": "5,257 stars this week"
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": "62,772",
+      "momentum": "11,684 stars this week"
+    },
+    {
+      "fullName": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": "125,414",
+      "momentum": "7,355 stars this week"
+    },
+    {
+      "fullName": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": "38,509",
+      "momentum": "9,735 stars this week"
+    },
+    {
+      "fullName": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "",
+      "stars": "19,543",
+      "momentum": "5,333 stars this week"
+    },
+    {
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": "34,145",
+      "momentum": "6,855 stars this week"
+    },
+    {
+      "fullName": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "language": "Go",
+      "stars": "2,832",
+      "momentum": "1,445 stars this week"
+    },
+    {
+      "fullName": "sponsors/chopratejas",
+      "url": "https://github.com/sponsors/chopratejas",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": "33,230",
+      "momentum": "9,475 stars this week"
+    },
+    {
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": "135,154",
-      "momentum": "1,181 stars this week"
+      "stars": "6,731",
+      "momentum": "1,097 stars this week"
+    },
+    {
+      "fullName": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": "11,111",
+      "momentum": "683 stars this week"
+    },
+    {
+      "fullName": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": "9,325",
+      "momentum": "765 stars this week"
+    },
+    {
+      "fullName": "sponsors/chatwoot",
+      "url": "https://github.com/sponsors/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "stars": "32,543",
+      "momentum": "2,166 stars this week"
+    },
+    {
+      "fullName": "sponsors/pytest-dev",
+      "url": "https://github.com/sponsors/pytest-dev",
+      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+      "language": "Python",
+      "stars": "14,205",
+      "momentum": "271 stars this week"
+    },
+    {
+      "fullName": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars": "95,071",
+      "momentum": "541 stars this week"
+    },
+    {
+      "fullName": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "44,300",
+      "momentum": "5,235 stars this week"
     }
   ]
 }
