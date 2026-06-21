@@ -5,120 +5,120 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars": "2,626",
-      "momentum": "904 stars today"
-    },
-    {
-      "fullName": "penpot/penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars": "50,959",
-      "momentum": "424 stars today"
+      "stars": "4,408",
+      "momentum": "1,829 stars today"
     },
     {
       "fullName": "calesthio/OpenMontage",
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": "6,719",
-      "momentum": "677 stars today"
-    },
-    {
-      "fullName": "tursodatabase/turso",
-      "url": "https://github.com/tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "stars": "20,099",
-      "momentum": "774 stars today"
-    },
-    {
-      "fullName": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars": "8,958",
-      "momentum": "1,267 stars today"
-    },
-    {
-      "fullName": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars": "24,336",
-      "momentum": "432 stars today"
-    },
-    {
-      "fullName": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "description": "The open alternative to Salesforce, designed for AI.",
-      "language": "TypeScript",
-      "stars": "50,720",
-      "momentum": "140 stars today"
-    },
-    {
-      "fullName": "Kong/insomnia",
-      "url": "https://github.com/Kong/insomnia",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "language": "TypeScript",
-      "stars": "39,169",
-      "momentum": "327 stars today"
-    },
-    {
-      "fullName": "sponsors/tw93",
-      "url": "https://github.com/sponsors/tw93",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "language": "Rust",
-      "stars": "53,619",
-      "momentum": "2,398 stars today"
+      "stars": "7,899",
+      "momentum": "993 stars today"
     },
     {
       "fullName": "sponsors/chopratejas",
       "url": "https://github.com/sponsors/chopratejas",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": "40,835",
-      "momentum": "3,786 stars today"
+      "stars": "43,315",
+      "momentum": "2,617 stars today"
     },
     {
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "fullName": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": "20,622",
+      "momentum": "543 stars today"
+    },
+    {
+      "fullName": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": "51,989",
+      "momentum": "1,131 stars today"
+    },
+    {
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "44,099",
+      "momentum": "519 stars today"
+    },
+    {
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": "30,823",
-      "momentum": "140 stars today"
+      "stars": "57,830",
+      "momentum": "633 stars today"
     },
     {
-      "fullName": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "language": "TypeScript",
-      "stars": "23,162",
-      "momentum": "1,035 stars today"
+      "fullName": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars": "72,317",
+      "momentum": "415 stars today"
     },
     {
-      "fullName": "sponsors/mattpocock",
-      "url": "https://github.com/sponsors/mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars": "137,725",
-      "momentum": "1,520 stars today"
+      "fullName": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": "9,934",
+      "momentum": "1,029 stars today"
     },
     {
-      "fullName": "sponsors/withastro",
-      "url": "https://github.com/sponsors/withastro",
-      "description": "The sandbox agent framework.",
-      "language": "TypeScript",
-      "stars": "5,990",
-      "momentum": "313 stars today"
+      "fullName": "sponsors/mukul975",
+      "url": "https://github.com/sponsors/mukul975",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": "17,359",
+      "momentum": "343 stars today"
     },
     {
-      "fullName": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "fullName": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "description": "b站会员购购票辅助工具",
+      "language": "Python",
+      "stars": "3,688",
+      "momentum": "164 stars today"
+    },
+    {
+      "fullName": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "language": "Python",
+      "stars": "18,610",
+      "momentum": "288 stars today"
+    },
+    {
+      "fullName": "sponsors/topoteretes",
+      "url": "https://github.com/sponsors/topoteretes",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars": "18,468",
+      "momentum": "361 stars today"
+    },
+    {
+      "fullName": "byoungd/English-level-up-tips",
+      "url": "https://github.com/byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "",
-      "stars": "14,667",
-      "momentum": "223 stars today"
+      "stars": "53,930",
+      "momentum": "121 stars today"
+    },
+    {
+      "fullName": "sponsors/asgeirtj",
+      "url": "https://github.com/sponsors/asgeirtj",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": "44,124",
+      "momentum": "352 stars today"
     }
   ],
   "weekly": [
@@ -127,120 +127,120 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": "8,958",
-      "momentum": "4,212 stars this week"
+      "stars": "9,934",
+      "momentum": "5,419 stars this week"
     },
     {
       "fullName": "sponsors/chopratejas",
       "url": "https://github.com/sponsors/chopratejas",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": "40,835",
-      "momentum": "12,793 stars this week"
+      "stars": "43,315",
+      "momentum": "14,982 stars this week"
     },
     {
       "fullName": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": "35,553",
-      "momentum": "8,324 stars this week"
+      "stars": "36,578",
+      "momentum": "8,483 stars this week"
     },
     {
       "fullName": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars": "126,083",
-      "momentum": "8,035 stars this week"
-    },
-    {
-      "fullName": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "language": "Python",
-      "stars": "8,544",
-      "momentum": "5,026 stars this week"
+      "stars": "126,974",
+      "momentum": "7,856 stars this week"
     },
     {
       "fullName": "n0-computer/iroh",
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars": "10,328",
-      "momentum": "1,502 stars this week"
-    },
-    {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars": "63,932",
-      "momentum": "7,170 stars this week"
-    },
-    {
-      "fullName": "sponsors/asgeirtj",
-      "url": "https://github.com/sponsors/asgeirtj",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "language": "JavaScript",
-      "stars": "43,795",
-      "momentum": "1,682 stars this week"
+      "stars": "10,418",
+      "momentum": "1,621 stars this week"
     },
     {
       "fullName": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": "24,336",
-      "momentum": "3,335 stars this week"
+      "stars": "24,781",
+      "momentum": "3,655 stars this week"
     },
     {
-      "fullName": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-      "language": "",
-      "stars": "19,987",
-      "momentum": "3,025 stars this week"
+      "fullName": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": "8,923",
+      "momentum": "4,631 stars this week"
     },
     {
-      "fullName": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "description": "Meshery, the cloud native manager",
+      "fullName": "sponsors/asgeirtj",
+      "url": "https://github.com/sponsors/asgeirtj",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": "44,124",
+      "momentum": "1,866 stars this week"
+    },
+    {
+      "fullName": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": "7,899",
+      "momentum": "2,253 stars this week"
+    },
+    {
+      "fullName": "sponsors/withastro",
+      "url": "https://github.com/sponsors/withastro",
+      "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars": "11,167",
-      "momentum": "879 stars this week"
+      "stars": "6,239",
+      "momentum": "1,012 stars this week"
     },
     {
-      "fullName": "sponsors/swc-project",
-      "url": "https://github.com/sponsors/swc-project",
-      "description": "Rust-based platform for the Web",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": "64,593",
+      "momentum": "6,332 stars this week"
+    },
+    {
+      "fullName": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "language": "TypeScript",
+      "stars": "39,479",
+      "momentum": "657 stars this week"
+    },
+    {
+      "fullName": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars": "34,074",
-      "momentum": "545 stars this week"
+      "stars": "20,622",
+      "momentum": "968 stars this week"
+    },
+    {
+      "fullName": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": "52,275",
+      "momentum": "1,389 stars this week"
     },
     {
       "fullName": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars": "9,458",
-      "momentum": "876 stars this week"
-    },
-    {
-      "fullName": "sponsors/pytest-dev",
-      "url": "https://github.com/sponsors/pytest-dev",
-      "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-      "language": "Python",
-      "stars": "14,238",
-      "momentum": "309 stars this week"
-    },
-    {
-      "fullName": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-      "language": "TypeScript",
-      "stars": "31,962",
-      "momentum": "2,381 stars this week"
+      "stars": "9,518",
+      "momentum": "713 stars this week"
     }
   ]
 }
