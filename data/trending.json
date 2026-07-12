@@ -1,124 +1,124 @@
 {
   "daily": [
     {
-      "fullName": "catchorg/Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "stars": "20,765",
-      "momentum": "117 stars today"
-    },
-    {
-      "fullName": "abseil/abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "stars": "17,637",
-      "momentum": "120 stars today"
-    },
-    {
-      "fullName": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars": "28,892",
-      "momentum": "230 stars today"
-    },
-    {
-      "fullName": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "stars": "6,927",
-      "momentum": "338 stars today"
-    },
-    {
-      "fullName": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "stars": "49,278",
-      "momentum": "229 stars today"
-    },
-    {
-      "fullName": "zeux/meshoptimizer",
-      "url": "https://github.com/zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "language": "C++",
-      "stars": "8,089",
-      "momentum": "111 stars today"
-    },
-    {
-      "fullName": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars": "4,323",
-      "momentum": "112 stars today"
+      "fullName": "sponsors/Dicklesworthstone",
+      "url": "https://github.com/sponsors/Dicklesworthstone",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": "2,451",
+      "momentum": "444 stars today"
     },
     {
       "fullName": "sponsors/wonderwhy-er",
       "url": "https://github.com/sponsors/wonderwhy-er",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars": "7,682",
-      "momentum": "900 stars today"
+      "stars": "7,887",
+      "momentum": "207 stars today"
     },
     {
-      "fullName": "chriskohlhoff/asio",
-      "url": "https://github.com/chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "language": "C++",
-      "stars": "6,112",
-      "momentum": "75 stars today"
+      "fullName": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": "20,168",
+      "momentum": "776 stars today"
     },
     {
-      "fullName": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars": "94,491",
-      "momentum": "654 stars today"
+      "fullName": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": "23,031",
+      "momentum": "55 stars today"
     },
     {
-      "fullName": "actions/checkout",
-      "url": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo",
-      "language": "TypeScript",
-      "stars": "8,429",
-      "momentum": "8 stars today"
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": "118,293",
+      "momentum": "549 stars today"
+    },
+    {
+      "fullName": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": "48,185",
+      "momentum": "464 stars today"
     },
     {
       "fullName": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars": "88,509",
-      "momentum": "125 stars today"
+      "stars": "88,881",
+      "momentum": "404 stars today"
     },
     {
-      "fullName": "microsoft/PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "stars": "136,347",
-      "momentum": "65 stars today"
-    },
-    {
-      "fullName": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": "50,547",
-      "momentum": "75 stars today"
+      "stars": "33,634",
+      "momentum": "122 stars today"
     },
     {
-      "fullName": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars": "140,861",
-      "momentum": "331 stars today"
+      "fullName": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars": "2,172",
+      "momentum": "9 stars today"
+    },
+    {
+      "fullName": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": "6,628",
+      "momentum": "661 stars today"
+    },
+    {
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": "13,649",
+      "momentum": "79 stars today"
+    },
+    {
+      "fullName": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "61,250",
+      "momentum": "109 stars today"
+    },
+    {
+      "fullName": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars": "45,130",
+      "momentum": "151 stars today"
+    },
+    {
+      "fullName": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": "29,159",
+      "momentum": "274 stars today"
+    },
+    {
+      "fullName": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars": "1,034",
+      "momentum": "436 stars today"
     }
   ],
   "weekly": [
@@ -127,120 +127,120 @@
       "url": "https://github.com/sponsors/Zackriya-Solutions",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai",
       "language": "Rust",
-      "stars": "23,002",
-      "momentum": "8,795 stars this week"
-    },
-    {
-      "fullName": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars": "27,576",
-      "momentum": "4,484 stars this week"
+      "stars": "23,408",
+      "momentum": "8,579 stars this week"
     },
     {
       "fullName": "sponsors/wonderwhy-er",
       "url": "https://github.com/sponsors/wonderwhy-er",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars": "7,682",
-      "momentum": "557 stars this week"
+      "stars": "7,887",
+      "momentum": "1,451 stars this week"
     },
     {
-      "fullName": "sponsors/asgeirtj",
-      "url": "https://github.com/sponsors/asgeirtj",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "fullName": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars": "56,066",
-      "momentum": "7,765 stars this week"
-    },
-    {
-      "fullName": "sponsors/ogulcancelik",
-      "url": "https://github.com/sponsors/ogulcancelik",
-      "description": "agent multiplexer that lives in your terminal.",
-      "language": "Rust",
-      "stars": "15,405",
-      "momentum": "4,714 stars this week"
+      "stars": "27,904",
+      "momentum": "4,030 stars this week"
     },
     {
       "fullName": "TencentCloud/CubeSandbox",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars": "9,658",
-      "momentum": "2,514 stars this week"
+      "stars": "9,771",
+      "momentum": "2,416 stars this week"
     },
     {
-      "fullName": "facebook/astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars": "7,854",
-      "momentum": "3,582 stars this week"
+      "fullName": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": "17,937",
+      "momentum": "229 stars this week"
     },
     {
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": "40,409",
-      "momentum": "6,443 stars this week"
+      "fullName": "sponsors/ogulcancelik",
+      "url": "https://github.com/sponsors/ogulcancelik",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": "15,667",
+      "momentum": "4,349 stars this week"
     },
     {
-      "fullName": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars": "7,408",
-      "momentum": "4,093 stars this week"
+      "fullName": "sponsors/asgeirtj",
+      "url": "https://github.com/sponsors/asgeirtj",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": "56,508",
+      "momentum": "7,731 stars this week"
     },
     {
       "fullName": "sponsors/diegosouzapw",
       "url": "https://github.com/sponsors/diegosouzapw",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars": "15,486",
-      "momentum": "4,268 stars this week"
+      "stars": "16,005",
+      "momentum": "4,375 stars this week"
     },
     {
       "fullName": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars": "16,221",
-      "momentum": "4,328 stars this week"
+      "stars": "16,659",
+      "momentum": "4,368 stars this week"
     },
     {
-      "fullName": "alibaba/page-agent",
-      "url": "https://github.com/alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "fullName": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": "7,730",
+      "momentum": "4,399 stars this week"
+    },
+    {
+      "fullName": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": "25,969",
-      "momentum": "3,799 stars this week"
-    },
-    {
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "language": "JavaScript",
-      "stars": "3,595",
-      "momentum": "1,019 stars this week"
-    },
-    {
-      "fullName": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars": "46,672",
-      "momentum": "1,255 stars this week"
+      "stars": "8,057",
+      "momentum": "2,779 stars this week"
     },
     {
       "fullName": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": "14,923",
-      "momentum": "5,789 stars this week"
+      "stars": "15,312",
+      "momentum": "6,549 stars this week"
+    },
+    {
+      "fullName": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": "40,731",
+      "momentum": "4,987 stars this week"
+    },
+    {
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "language": "JavaScript",
+      "stars": "3,829",
+      "momentum": "1,036 stars this week"
+    },
+    {
+      "fullName": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": "26,151",
+      "momentum": "3,317 stars this week"
     }
   ]
 }
