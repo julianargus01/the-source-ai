@@ -5,120 +5,120 @@
       "url": "https://github.com/sponsors/tirth8205",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": "20,663",
-      "momentum": "551 stars today"
+      "stars": "22,605",
+      "momentum": "1,876 stars today"
     },
     {
-      "fullName": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "stars": "18,202",
-      "momentum": "328 stars today"
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": "9,358",
+      "momentum": "612 stars today"
+    },
+    {
+      "fullName": "sponsors/diegosouzapw",
+      "url": "https://github.com/sponsors/diegosouzapw",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "language": "TypeScript",
+      "stars": "21,030",
+      "momentum": "1,343 stars today"
     },
     {
       "fullName": "sponsors/rohitg00",
       "url": "https://github.com/sponsors/rohitg00",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": "39,418",
-      "momentum": "507 stars today"
+      "stars": "40,294",
+      "momentum": "846 stars today"
+    },
+    {
+      "fullName": "sponsors/msitarzewski",
+      "url": "https://github.com/sponsors/msitarzewski",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "134,480",
+      "momentum": "949 stars today"
+    },
+    {
+      "fullName": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "language": "Python",
+      "stars": "18,647",
+      "momentum": "448 stars today"
     },
     {
       "fullName": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars": "43,066",
-      "momentum": "629 stars today"
+      "stars": "43,933",
+      "momentum": "839 stars today"
     },
     {
-      "fullName": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "fullName": "sponsors/topoteretes",
+      "url": "https://github.com/sponsors/topoteretes",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+      "language": "Python",
+      "stars": "28,637",
+      "momentum": "303 stars today"
+    },
+    {
+      "fullName": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "language": "Python",
+      "stars": "14,005",
+      "momentum": "865 stars today"
+    },
+    {
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars": "1,597",
-      "momentum": "605 stars today"
-    },
-    {
-      "fullName": "andrewrabert/jellium-desktop",
-      "url": "https://github.com/andrewrabert/jellium-desktop",
-      "description": "An unofficial desktop client for Jellyfin",
-      "language": "Rust",
-      "stars": "1,224",
-      "momentum": "55 stars today"
-    },
-    {
-      "fullName": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "stars": "9,902",
-      "momentum": "111 stars today"
-    },
-    {
-      "fullName": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "language": "Python",
-      "stars": "36,801",
-      "momentum": "424 stars today"
-    },
-    {
-      "fullName": "microsoft/terminal",
-      "url": "https://github.com/microsoft/terminal",
-      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "language": "C++",
-      "stars": "104,046",
-      "momentum": "13 stars today"
-    },
-    {
-      "fullName": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "stars": "36,613",
-      "momentum": "62 stars today"
-    },
-    {
-      "fullName": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars": "8,703",
-      "momentum": "199 stars today"
-    },
-    {
-      "fullName": "sponsors/trycua",
-      "url": "https://github.com/sponsors/trycua",
-      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "language": "HTML",
-      "stars": "20,174",
-      "momentum": "136 stars today"
+      "stars": "5,537",
+      "momentum": "222 stars today"
     },
     {
       "fullName": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars": "9,722",
-      "momentum": "418 stars today"
+      "stars": "10,128",
+      "momentum": "405 stars today"
     },
     {
-      "fullName": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "description": "",
-      "language": "Batchfile",
-      "stars": "30,979",
-      "momentum": "117 stars today"
+      "fullName": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars": "36,961",
+      "momentum": "330 stars today"
     },
     {
-      "fullName": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "stars": "528,682",
-      "momentum": "761 stars today"
+      "fullName": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "language": "Python",
+      "stars": "26,423",
+      "momentum": "77 stars today"
+    },
+    {
+      "fullName": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "language": "TypeScript",
+      "stars": "2,311",
+      "momentum": "695 stars today"
+    },
+    {
+      "fullName": "sponsors/tokio-rs",
+      "url": "https://github.com/sponsors/tokio-rs",
+      "description": "A batteries-included framework for building web apps",
+      "language": "Rust",
+      "stars": "1,355",
+      "momentum": "439 stars today"
     }
   ],
   "weekly": [
@@ -127,112 +127,120 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": "13,132",
-      "momentum": "8,834 stars this week"
+      "stars": "13,951",
+      "momentum": "9,193 stars this week"
     },
     {
       "fullName": "sponsors/OpenCut-app",
       "url": "https://github.com/sponsors/OpenCut-app",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": "75,665",
-      "momentum": "13,319 stars this week"
+      "stars": "76,246",
+      "momentum": "12,743 stars this week"
     },
     {
       "fullName": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": "124,329",
-      "momentum": "6,146 stars this week"
-    },
-    {
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars": "25,177",
-      "momentum": "5,635 stars this week"
+      "stars": "124,995",
+      "momentum": "6,211 stars this week"
     },
     {
       "fullName": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/",
       "language": "Python",
-      "stars": "27,836",
-      "momentum": "2,154 stars this week"
+      "stars": "28,309",
+      "momentum": "2,375 stars this week"
     },
     {
-      "fullName": "sponsors/mattpocock",
-      "url": "https://github.com/sponsors/mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": "177,144",
-      "momentum": "11,131 stars this week"
-    },
-    {
-      "fullName": "kangarooking/cangjie-skill",
-      "url": "https://github.com/kangarooking/cangjie-skill",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "fullName": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": "3,779",
-      "momentum": "1,224 stars this week"
-    },
-    {
-      "fullName": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars": "19,514",
-      "momentum": "4,284 stars this week"
-    },
-    {
-      "fullName": "sponsors/ibelick",
-      "url": "https://github.com/sponsors/ibelick",
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "stars": "5,339",
-      "momentum": "1,098 stars this week"
-    },
-    {
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars": "99,586",
-      "momentum": "2,268 stars this week"
-    },
-    {
-      "fullName": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
-      "language": "Rust",
-      "stars": "66,778",
-      "momentum": "2,344 stars this week"
+      "stars": "25,575",
+      "momentum": "5,228 stars this week"
     },
     {
       "fullName": "sponsors/tirth8205",
       "url": "https://github.com/sponsors/tirth8205",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": "20,663",
-      "momentum": "644 stars this week"
+      "stars": "22,605",
+      "momentum": "1,103 stars this week"
+    },
+    {
+      "fullName": "sponsors/ibelick",
+      "url": "https://github.com/sponsors/ibelick",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": "5,587",
+      "momentum": "1,669 stars this week"
+    },
+    {
+      "fullName": "sponsors/mattpocock",
+      "url": "https://github.com/sponsors/mattpocock",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "178,578",
+      "momentum": "10,983 stars this week"
+    },
+    {
+      "fullName": "kangarooking/cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "language": "Python",
+      "stars": "4,055",
+      "momentum": "1,284 stars this week"
+    },
+    {
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": "20,028",
+      "momentum": "4,269 stars this week"
+    },
+    {
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "99,979",
+      "momentum": "2,361 stars this week"
+    },
+    {
+      "fullName": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": "10,128",
+      "momentum": "693 stars this week"
+    },
+    {
+      "fullName": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": "66,921",
+      "momentum": "2,498 stars this week"
+    },
+    {
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "language": "JavaScript",
+      "stars": "6,120",
+      "momentum": "2,103 stars this week"
     },
     {
       "fullName": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": "72,628",
-      "momentum": "2,782 stars this week"
-    },
-    {
-      "fullName": "anthropics/cwc-workshops",
-      "url": "https://github.com/anthropics/cwc-workshops",
-      "description": "",
-      "language": "TypeScript",
-      "stars": "1,731",
-      "momentum": "291 stars this week"
+      "stars": "73,241",
+      "momentum": "2,854 stars this week"
     }
   ]
 }
