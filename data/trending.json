@@ -1,124 +1,124 @@
 {
   "daily": [
     {
+      "fullName": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": "64,024",
+      "momentum": "1,167 stars today"
+    },
+    {
+      "fullName": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": "13,777",
+      "momentum": "4,434 stars today"
+    },
+    {
       "fullName": "sponsors/tirth8205",
       "url": "https://github.com/sponsors/tirth8205",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": "22,605",
-      "momentum": "1,876 stars today"
+      "stars": "24,298",
+      "momentum": "1,921 stars today"
+    },
+    {
+      "fullName": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "",
+      "stars": "6,243",
+      "momentum": "1,846 stars today"
+    },
+    {
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": "8,879",
+      "momentum": "297 stars today"
     },
     {
       "fullName": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars": "9,358",
-      "momentum": "612 stars today"
-    },
-    {
-      "fullName": "sponsors/diegosouzapw",
-      "url": "https://github.com/sponsors/diegosouzapw",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
-      "language": "TypeScript",
-      "stars": "21,030",
-      "momentum": "1,343 stars today"
-    },
-    {
-      "fullName": "sponsors/rohitg00",
-      "url": "https://github.com/sponsors/rohitg00",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars": "40,294",
-      "momentum": "846 stars today"
-    },
-    {
-      "fullName": "sponsors/msitarzewski",
-      "url": "https://github.com/sponsors/msitarzewski",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars": "134,480",
-      "momentum": "949 stars today"
-    },
-    {
-      "fullName": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "language": "Python",
-      "stars": "18,647",
-      "momentum": "448 stars today"
-    },
-    {
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars": "43,933",
-      "momentum": "839 stars today"
-    },
-    {
-      "fullName": "sponsors/topoteretes",
-      "url": "https://github.com/sponsors/topoteretes",
-      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
-      "language": "Python",
-      "stars": "28,637",
-      "momentum": "303 stars today"
-    },
-    {
-      "fullName": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "language": "Python",
-      "stars": "14,005",
-      "momentum": "865 stars today"
-    },
-    {
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars": "5,537",
-      "momentum": "222 stars today"
-    },
-    {
-      "fullName": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
       "stars": "10,128",
-      "momentum": "405 stars today"
+      "momentum": "835 stars today"
+    },
+    {
+      "fullName": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "description": "Self-hosted deployment platform",
+      "language": "TypeScript",
+      "stars": "5,685",
+      "momentum": "1,556 stars today"
     },
     {
       "fullName": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars": "36,961",
-      "momentum": "330 stars today"
+      "stars": "37,355",
+      "momentum": "416 stars today"
     },
     {
-      "fullName": "PrefectHQ/fastmcp",
-      "url": "https://github.com/PrefectHQ/fastmcp",
-      "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
-      "language": "Python",
-      "stars": "26,423",
-      "momentum": "77 stars today"
-    },
-    {
-      "fullName": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars": "2,311",
-      "momentum": "695 stars today"
+      "stars": "6,370",
+      "momentum": "850 stars today"
     },
     {
-      "fullName": "sponsors/tokio-rs",
-      "url": "https://github.com/sponsors/tokio-rs",
-      "description": "A batteries-included framework for building web apps",
+      "fullName": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "language": "JavaScript",
+      "stars": "4,674",
+      "momentum": "28 stars today"
+    },
+    {
+      "fullName": "sponsors/AlexsJones",
+      "url": "https://github.com/sponsors/AlexsJones",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
-      "stars": "1,355",
-      "momentum": "439 stars today"
+      "stars": "30,033",
+      "momentum": "247 stars today"
+    },
+    {
+      "fullName": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": "36,893",
+      "momentum": "88 stars today"
+    },
+    {
+      "fullName": "sponsors/chrislgarry",
+      "url": "https://github.com/sponsors/chrislgarry",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "69,663",
+      "momentum": "1,195 stars today"
+    },
+    {
+      "fullName": "sponsors/DioxusLabs",
+      "url": "https://github.com/sponsors/DioxusLabs",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": "37,501",
+      "momentum": "261 stars today"
+    },
+    {
+      "fullName": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "language": "Python",
+      "stars": "12,118",
+      "momentum": "14 stars today"
     }
   ],
   "weekly": [
@@ -127,120 +127,120 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": "13,951",
-      "momentum": "9,193 stars this week"
+      "stars": "14,743",
+      "momentum": "9,173 stars this week"
     },
     {
       "fullName": "sponsors/OpenCut-app",
       "url": "https://github.com/sponsors/OpenCut-app",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": "76,246",
-      "momentum": "12,743 stars this week"
-    },
-    {
-      "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "language": "Python",
-      "stars": "124,995",
-      "momentum": "6,211 stars this week"
+      "stars": "76,837",
+      "momentum": "11,676 stars this week"
     },
     {
       "fullName": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/",
       "language": "Python",
-      "stars": "28,309",
-      "momentum": "2,375 stars this week"
-    },
-    {
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars": "25,575",
-      "momentum": "5,228 stars this week"
+      "stars": "28,778",
+      "momentum": "2,754 stars this week"
     },
     {
       "fullName": "sponsors/tirth8205",
       "url": "https://github.com/sponsors/tirth8205",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": "22,605",
-      "momentum": "1,103 stars this week"
+      "stars": "24,298",
+      "momentum": "3,073 stars this week"
     },
     {
-      "fullName": "sponsors/ibelick",
-      "url": "https://github.com/sponsors/ibelick",
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "stars": "5,587",
-      "momentum": "1,669 stars this week"
-    },
-    {
-      "fullName": "sponsors/mattpocock",
-      "url": "https://github.com/sponsors/mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": "178,578",
-      "momentum": "10,983 stars this week"
-    },
-    {
-      "fullName": "kangarooking/cangjie-skill",
-      "url": "https://github.com/kangarooking/cangjie-skill",
-      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": "4,055",
-      "momentum": "1,284 stars this week"
-    },
-    {
-      "fullName": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "stars": "20,028",
-      "momentum": "4,269 stars this week"
-    },
-    {
-      "fullName": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars": "99,979",
-      "momentum": "2,361 stars this week"
+      "stars": "125,615",
+      "momentum": "5,857 stars this week"
     },
     {
       "fullName": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars": "10,128",
-      "momentum": "693 stars this week"
+      "stars": "10,451",
+      "momentum": "974 stars this week"
     },
     {
-      "fullName": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for open models like Kimi K3",
+      "fullName": "sponsors/ibelick",
+      "url": "https://github.com/sponsors/ibelick",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": "5,783",
+      "momentum": "1,925 stars this week"
+    },
+    {
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars": "66,921",
-      "momentum": "2,498 stars this week"
+      "stars": "10,128",
+      "momentum": "1,087 stars this week"
     },
     {
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
-      "language": "JavaScript",
-      "stars": "6,120",
-      "momentum": "2,103 stars this week"
+      "fullName": "kangarooking/cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "language": "Python",
+      "stars": "4,211",
+      "momentum": "1,342 stars this week"
+    },
+    {
+      "fullName": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": "26,050",
+      "momentum": "4,387 stars this week"
+    },
+    {
+      "fullName": "sponsors/mattpocock",
+      "url": "https://github.com/sponsors/mattpocock",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": "180,008",
+      "momentum": "10,872 stars this week"
+    },
+    {
+      "fullName": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": "20,514",
+      "momentum": "4,140 stars this week"
     },
     {
       "fullName": "earendil-works/pi",
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": "73,241",
-      "momentum": "2,854 stars this week"
+      "stars": "74,455",
+      "momentum": "2,932 stars this week"
+    },
+    {
+      "fullName": "sponsors/Dicklesworthstone",
+      "url": "https://github.com/sponsors/Dicklesworthstone",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": "5,248",
+      "momentum": "1,410 stars this week"
+    },
+    {
+      "fullName": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": "100,324",
+      "momentum": "2,448 stars this week"
     }
   ]
 }
