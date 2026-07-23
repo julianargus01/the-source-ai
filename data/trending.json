@@ -1,246 +1,246 @@
 {
   "daily": [
     {
+      "fullName": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": "5,755",
+      "momentum": "3,252 stars today"
+    },
+    {
       "fullName": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": "67,958",
-      "momentum": "4,131 stars today"
-    },
-    {
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars": "83,245",
-      "momentum": "1,114 stars today"
-    },
-    {
-      "fullName": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars": "7,813",
-      "momentum": "1,682 stars today"
-    },
-    {
-      "fullName": "sponsors/schollz",
-      "url": "https://github.com/sponsors/schollz",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
-      "language": "Go",
-      "stars": "37,313",
-      "momentum": "737 stars today"
-    },
-    {
-      "fullName": "sponsors/likec4",
-      "url": "https://github.com/sponsors/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-      "language": "TypeScript",
-      "stars": "4,135",
-      "momentum": "58 stars today"
-    },
-    {
-      "fullName": "sponsors/chrislgarry",
-      "url": "https://github.com/sponsors/chrislgarry",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "stars": "70,398",
-      "momentum": "766 stars today"
-    },
-    {
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars": "45,499",
-      "momentum": "565 stars today"
-    },
-    {
-      "fullName": "sponsors/diegosouzapw",
-      "url": "https://github.com/sponsors/diegosouzapw",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "stars": "24,597",
-      "momentum": "1,648 stars today"
+      "stars": "70,898",
+      "momentum": "3,196 stars today"
     },
     {
       "fullName": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": "32,477",
-      "momentum": "134 stars today"
+      "stars": "32,888",
+      "momentum": "398 stars today"
+    },
+    {
+      "fullName": "sponsors/Pumpkin-MC",
+      "url": "https://github.com/sponsors/Pumpkin-MC",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": "8,744",
+      "momentum": "563 stars today"
+    },
+    {
+      "fullName": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": "1,379",
+      "momentum": "219 stars today"
+    },
+    {
+      "fullName": "sponsors/chrislgarry",
+      "url": "https://github.com/sponsors/chrislgarry",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": "70,925",
+      "momentum": "599 stars today"
+    },
+    {
+      "fullName": "sponsors/diegosouzapw",
+      "url": "https://github.com/sponsors/diegosouzapw",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "26,541",
+      "momentum": "1,925 stars today"
     },
     {
       "fullName": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars": "68,577",
-      "momentum": "155 stars today"
+      "stars": "69,216",
+      "momentum": "637 stars today"
     },
     {
-      "fullName": "oblien/openship",
-      "url": "https://github.com/oblien/openship",
-      "description": "Self-hosted deployment platform",
-      "language": "TypeScript",
-      "stars": "6,972",
-      "momentum": "1,304 stars today"
+      "fullName": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": "9,805",
+      "momentum": "621 stars today"
     },
     {
       "fullName": "agegr/pi-web",
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars": "1,981",
-      "momentum": "314 stars today"
+      "stars": "2,274",
+      "momentum": "315 stars today"
     },
     {
-      "fullName": "sponsors/rohitg00",
-      "url": "https://github.com/sponsors/rohitg00",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars": "41,959",
-      "momentum": "688 stars today"
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": "11,196",
+      "momentum": "265 stars today"
     },
+    {
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "84,845",
+      "momentum": "1,726 stars today"
+    },
+    {
+      "fullName": "Julian-adv/OpenMMO",
+      "url": "https://github.com/Julian-adv/OpenMMO",
+      "description": "",
+      "language": "Rust",
+      "stars": "1,254",
+      "momentum": "395 stars today"
+    },
+    {
+      "fullName": "sponsors/likec4",
+      "url": "https://github.com/sponsors/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": "4,571",
+      "momentum": "475 stars today"
+    },
+    {
+      "fullName": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": "11,972",
+      "momentum": "590 stars today"
+    }
+  ],
+  "weekly": [
     {
       "fullName": "sponsors/tirth8205",
       "url": "https://github.com/sponsors/tirth8205",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": "25,122",
-      "momentum": "872 stars today"
+      "stars": "25,736",
+      "momentum": "5,639 stars this week"
     },
-    {
-      "fullName": "dreamhunter2333/cloudflare_temp_email",
-      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
-      "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-      "language": "TypeScript",
-      "stars": "10,731",
-      "momentum": "60 stars today"
-    }
-  ],
-  "weekly": [
     {
       "fullName": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": "15,403",
-      "momentum": "8,948 stars this week"
-    },
-    {
-      "fullName": "sponsors/tirth8205",
-      "url": "https://github.com/sponsors/tirth8205",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars": "25,122",
-      "momentum": "4,791 stars this week"
-    },
-    {
-      "fullName": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/",
-      "language": "Python",
-      "stars": "29,036",
-      "momentum": "2,908 stars this week"
+      "stars": "16,054",
+      "momentum": "8,471 stars this week"
     },
     {
       "fullName": "MoonshotAI/kimi-code",
       "url": "https://github.com/MoonshotAI/kimi-code",
       "description": "Kimi Code CLI — The Starting Point for Next-Gen Agents",
       "language": "TypeScript",
-      "stars": "4,525",
-      "momentum": "1,352 stars this week"
-    },
-    {
-      "fullName": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "The most intelligent agent harness for code",
-      "language": "Rust",
-      "stars": "10,634",
-      "momentum": "1,769 stars this week"
-    },
-    {
-      "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "stars": "126,150",
-      "momentum": "5,385 stars this week"
-    },
-    {
-      "fullName": "sponsors/ibelick",
-      "url": "https://github.com/sponsors/ibelick",
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "stars": "5,942",
-      "momentum": "2,094 stars this week"
-    },
-    {
-      "fullName": "sponsors/OpenCut-app",
-      "url": "https://github.com/sponsors/OpenCut-app",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars": "77,409",
-      "momentum": "8,341 stars this week"
-    },
-    {
-      "fullName": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "language": "Python",
-      "stars": "1,489",
-      "momentum": "801 stars this week"
-    },
-    {
-      "fullName": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "description": "Kimi Code CLI is your next CLI agent.",
-      "language": "Python",
-      "stars": "10,590",
-      "momentum": "1,294 stars this week"
-    },
-    {
-      "fullName": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "stars": "75,349",
-      "momentum": "3,569 stars this week"
+      "stars": "4,740",
+      "momentum": "1,400 stars this week"
     },
     {
       "fullName": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": "67,958",
-      "momentum": "5,517 stars this week"
+      "stars": "70,898",
+      "momentum": "5,812 stars this week"
     },
     {
-      "fullName": "sponsors/mattpocock",
-      "url": "https://github.com/sponsors/mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most intelligent agent harness for code",
+      "language": "Rust",
+      "stars": "10,923",
+      "momentum": "2,293 stars this week"
+    },
+    {
+      "fullName": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/",
+      "language": "Python",
+      "stars": "29,314",
+      "momentum": "3,030 stars this week"
+    },
+    {
+      "fullName": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
       "language": "Shell",
-      "stars": "181,805",
-      "momentum": "10,651 stars this week"
+      "stars": "1,963",
+      "momentum": "642 stars this week"
     },
     {
-      "fullName": "chenyme/grok2api",
-      "url": "https://github.com/chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "stars": "6,548",
-      "momentum": "618 stars this week"
+      "fullName": "sponsors/ibelick",
+      "url": "https://github.com/sponsors/ibelick",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": "6,118",
+      "momentum": "2,206 stars this week"
+    },
+    {
+      "fullName": "sponsors/diegosouzapw",
+      "url": "https://github.com/sponsors/diegosouzapw",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": "26,541",
+      "momentum": "6,989 stars this week"
+    },
+    {
+      "fullName": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": "10,674",
+      "momentum": "1,443 stars this week"
+    },
+    {
+      "fullName": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": "2,274",
+      "momentum": "799 stars this week"
+    },
+    {
+      "fullName": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": "76,150",
+      "momentum": "4,060 stars this week"
     },
     {
       "fullName": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars": "14,840",
-      "momentum": "4,101 stars this week"
+      "stars": "15,035",
+      "momentum": "4,250 stars this week"
+    },
+    {
+      "fullName": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "language": "Python",
+      "stars": "1,534",
+      "momentum": "810 stars this week"
+    },
+    {
+      "fullName": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "stars": "126,780",
+      "momentum": "4,690 stars this week"
     }
   ]
 }
