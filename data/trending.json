@@ -1,222 +1,246 @@
 {
   "daily": [
     {
-      "fullName": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars": "10,098",
-      "momentum": "2,319 stars today"
-    },
-    {
-      "fullName": "sponsors/vitali87",
-      "url": "https://github.com/sponsors/vitali87",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "fullName": "sponsors/semantica-agi",
+      "url": "https://github.com/sponsors/semantica-agi",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars": "2,726",
-      "momentum": "59 stars today"
+      "stars": "3,785",
+      "momentum": "967 stars today"
     },
     {
       "fullName": "sponsors/msitarzewski",
       "url": "https://github.com/sponsors/msitarzewski",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": "140,168",
-      "momentum": "446 stars today"
+      "stars": "141,485",
+      "momentum": "1,352 stars today"
     },
     {
-      "fullName": "sponsors/pranshuparmar",
-      "url": "https://github.com/sponsors/pranshuparmar",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "stars": "20,300",
-      "momentum": "556 stars today"
-    },
-    {
-      "fullName": "google-deepmind/weathernext",
-      "url": "https://github.com/google-deepmind/weathernext",
-      "description": "",
+      "fullName": "sponsors/NanmiCoder",
+      "url": "https://github.com/sponsors/NanmiCoder",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars": "6,933",
-      "momentum": "55 stars today"
+      "stars": "60,798",
+      "momentum": "215 stars today"
     },
     {
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": "84,887",
-      "momentum": "670 stars today"
+      "stars": "85,548",
+      "momentum": "659 stars today"
     },
     {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars": "60,950",
-      "momentum": "287 stars today"
-    },
-    {
-      "fullName": "sponsors/goauthentik",
-      "url": "https://github.com/sponsors/goauthentik",
-      "description": "The authentication glue you need.",
-      "language": "Python",
-      "stars": "24,148",
-      "momentum": "312 stars today"
-    },
-    {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars": "17,025",
-      "momentum": "532 stars today"
-    },
-    {
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "language": "Python",
-      "stars": "125,191",
-      "momentum": "333 stars today"
-    },
-    {
-      "fullName": "harveyai/harvey-labs",
-      "url": "https://github.com/harveyai/harvey-labs",
-      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "language": "Python",
-      "stars": "708",
-      "momentum": "47 stars today"
-    },
-    {
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
+      "fullName": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars": "17,507",
-      "momentum": "182 stars today"
-    }
-  ],
-  "weekly": [
+      "stars": "76,236",
+      "momentum": "167 stars today"
+    },
     {
-      "fullName": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "12,641",
+      "momentum": "2,655 stars today"
+    },
+    {
+      "fullName": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "65,164",
+      "momentum": "190 stars today"
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": "13,710",
-      "momentum": "8,846 stars this week"
+      "stars": "89,208",
+      "momentum": "156 stars today"
     },
     {
-      "fullName": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars": "22,179",
-      "momentum": "9,635 stars this week"
-    },
-    {
-      "fullName": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "fullName": "sponsors/danielmiessler",
+      "url": "https://github.com/sponsors/danielmiessler",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
       "language": "TypeScript",
-      "stars": "18,554",
-      "momentum": "8,046 stars this week"
+      "stars": "17,705",
+      "momentum": "143 stars today"
     },
     {
-      "fullName": "sponsors/lyogavin",
-      "url": "https://github.com/sponsors/lyogavin",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars": "30,289",
-      "momentum": "5,711 stars this week"
-    },
-    {
-      "fullName": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "stars": "33,341",
-      "momentum": "4,704 stars this week"
-    },
-    {
-      "fullName": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars": "63,863",
-      "momentum": "7,469 stars this week"
-    },
-    {
-      "fullName": "sponsors/usekaneo",
-      "url": "https://github.com/sponsors/usekaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "fullName": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
-      "stars": "7,835",
-      "momentum": "2,259 stars this week"
+      "stars": "164,699",
+      "momentum": "815 stars today"
     },
     {
-      "fullName": "sponsors/virgiliojr94",
-      "url": "https://github.com/sponsors/virgiliojr94",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "fullName": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": "19,233",
-      "momentum": "4,071 stars this week"
+      "stars": "97,005",
+      "momentum": "598 stars today"
     },
     {
-      "fullName": "google/skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "fullName": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "description": "",
       "language": "Python",
-      "stars": "17,025",
-      "momentum": "1,143 stars this week"
-    },
-    {
-      "fullName": "unclebob/swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
-      "language": "Clojure",
-      "stars": "2,018",
-      "momentum": "504 stars this week"
-    },
-    {
-      "fullName": "iv-org/invidious",
-      "url": "https://github.com/iv-org/invidious",
-      "description": "Invidious is an alternative front-end to YouTube",
-      "language": "Crystal",
-      "stars": "22,511",
-      "momentum": "997 stars this week"
-    },
-    {
-      "fullName": "sponsors/goauthentik",
-      "url": "https://github.com/sponsors/goauthentik",
-      "description": "The authentication glue you need.",
-      "language": "Python",
-      "stars": "24,148",
-      "momentum": "1,334 stars this week"
-    },
-    {
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "language": "Python",
-      "stars": "125,191",
-      "momentum": "1,778 stars this week"
-    },
-    {
-      "fullName": "drawdb-io/drawdb",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-      "language": "JavaScript",
-      "stars": "38,545",
-      "momentum": "312 stars this week"
+      "stars": "7,257",
+      "momentum": "327 stars today"
     },
     {
       "fullName": "sponsors/vitali87",
       "url": "https://github.com/sponsors/vitali87",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars": "2,726",
-      "momentum": "237 stars this week"
+      "stars": "3,392",
+      "momentum": "682 stars today"
+    },
+    {
+      "fullName": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": "17,885",
+      "momentum": "388 stars today"
+    },
+    {
+      "fullName": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": "126,068",
+      "momentum": "921 stars today"
+    }
+  ],
+  "weekly": [
+    {
+      "fullName": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "language": "Python",
+      "stars": "3,882",
+      "momentum": "3,518 stars this week"
+    },
+    {
+      "fullName": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": "14,244",
+      "momentum": "8,641 stars this week"
+    },
+    {
+      "fullName": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": "19,232",
+      "momentum": "8,003 stars this week"
+    },
+    {
+      "fullName": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": "23,156",
+      "momentum": "9,784 stars this week"
+    },
+    {
+      "fullName": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": "33,655",
+      "momentum": "4,709 stars this week"
+    },
+    {
+      "fullName": "sponsors/lyogavin",
+      "url": "https://github.com/sponsors/lyogavin",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars": "30,509",
+      "momentum": "5,129 stars this week"
+    },
+    {
+      "fullName": "sponsors/semantica-agi",
+      "url": "https://github.com/sponsors/semantica-agi",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "3,785",
+      "momentum": "1,102 stars this week"
+    },
+    {
+      "fullName": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": "17,533",
+      "momentum": "1,626 stars this week"
+    },
+    {
+      "fullName": "sponsors/virgiliojr94",
+      "url": "https://github.com/sponsors/virgiliojr94",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": "19,811",
+      "momentum": "4,121 stars this week"
+    },
+    {
+      "fullName": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "stars": "2,093",
+      "momentum": "562 stars this week"
+    },
+    {
+      "fullName": "drawdb-io/drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "language": "JavaScript",
+      "stars": "38,712",
+      "momentum": "331 stars this week"
+    },
+    {
+      "fullName": "sponsors/usekaneo",
+      "url": "https://github.com/sponsors/usekaneo",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+      "language": "TypeScript",
+      "stars": "8,001",
+      "momentum": "1,952 stars this week"
+    },
+    {
+      "fullName": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "stars": "64,346",
+      "momentum": "5,514 stars this week"
+    },
+    {
+      "fullName": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": "126,068",
+      "momentum": "2,018 stars this week"
+    },
+    {
+      "fullName": "sponsors/vitali87",
+      "url": "https://github.com/sponsors/vitali87",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": "3,392",
+      "momentum": "236 stars this week"
     }
   ]
 }
