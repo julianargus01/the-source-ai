@@ -5,242 +5,242 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars": "8,649",
-      "momentum": "1,616 stars today"
+      "stars": "13,144",
+      "momentum": "4,504 stars today"
+    },
+    {
+      "fullName": "sponsors/semantica-agi",
+      "url": "https://github.com/sponsors/semantica-agi",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "6,191",
+      "momentum": "727 stars today"
+    },
+    {
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "168,805",
+      "momentum": "569 stars today"
+    },
+    {
+      "fullName": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": "4,708",
+      "momentum": "768 stars today"
+    },
+    {
+      "fullName": "sponsors/altic-dev",
+      "url": "https://github.com/sponsors/altic-dev",
+      "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
+      "language": "Swift",
+      "stars": "9,714",
+      "momentum": "83 stars today"
+    },
+    {
+      "fullName": "sponsors/unslothai",
+      "url": "https://github.com/sponsors/unslothai",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": "70,846",
+      "momentum": "592 stars today"
     },
     {
       "fullName": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars": "1,297",
-      "momentum": "248 stars today"
+      "stars": "2,441",
+      "momentum": "1,180 stars today"
     },
     {
-      "fullName": "sponsors/semantica-agi",
-      "url": "https://github.com/sponsors/semantica-agi",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "fullName": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
       "language": "Python",
-      "stars": "5,463",
-      "momentum": "834 stars today"
-    },
-    {
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "language": "TypeScript",
-      "stars": "43,491",
-      "momentum": "1,215 stars today"
-    },
-    {
-      "fullName": "sponsors/msitarzewski",
-      "url": "https://github.com/sponsors/msitarzewski",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars": "144,316",
-      "momentum": "1,969 stars today"
-    },
-    {
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars": "36,851",
-      "momentum": "238 stars today"
-    },
-    {
-      "fullName": "sponsors/NanmiCoder",
-      "url": "https://github.com/sponsors/NanmiCoder",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-      "language": "Python",
-      "stars": "61,874",
-      "momentum": "855 stars today"
-    },
-    {
-      "fullName": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-      "language": "Python",
-      "stars": "45,276",
-      "momentum": "364 stars today"
-    },
-    {
-      "fullName": "infiniflow/ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "language": "Go",
-      "stars": "87,410",
-      "momentum": "85 stars today"
-    },
-    {
-      "fullName": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars": "77,511",
-      "momentum": "573 stars today"
-    },
-    {
-      "fullName": "NVIDIA-NeMo/Switchyard",
-      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "",
-      "language": "Rust",
-      "stars": "652",
-      "momentum": "370 stars today"
-    },
-    {
-      "fullName": "ZuodaoTech/everyone-can-use-english",
-      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
-      "description": "人人都能用英语",
-      "language": "TypeScript",
-      "stars": "35,976",
-      "momentum": "53 stars today"
+      "stars": "12,233",
+      "momentum": "166 stars today"
     },
     {
       "fullName": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
-      "stars": "20,251",
-      "momentum": "40 stars today"
+      "stars": "20,516",
+      "momentum": "278 stars today"
     },
     {
-      "fullName": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
-      "stars": "87,565",
-      "momentum": "159 stars today"
+      "fullName": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "",
+      "language": "Rust",
+      "stars": "1,060",
+      "momentum": "408 stars today"
+    },
+    {
+      "fullName": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
+      "language": "TypeScript",
+      "stars": "6,261",
+      "momentum": "258 stars today"
+    },
+    {
+      "fullName": "sponsors/kepano",
+      "url": "https://github.com/sponsors/kepano",
+      "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+      "language": "",
+      "stars": "45,406",
+      "momentum": "252 stars today"
+    },
+    {
+      "fullName": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": "90,699",
+      "momentum": "506 stars today"
+    },
+    {
+      "fullName": "sponsors/msitarzewski",
+      "url": "https://github.com/sponsors/msitarzewski",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": "145,029",
+      "momentum": "762 stars today"
     },
     {
       "fullName": "Lightricks/LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
       "language": "Python",
-      "stars": "8,628",
-      "momentum": "40 stars today"
+      "stars": "8,825",
+      "momentum": "201 stars today"
     }
   ],
   "weekly": [
     {
-      "fullName": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
-      "description": "Give your agent a computer 👾",
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars": "7,735",
-      "momentum": "6,775 stars this week"
+      "stars": "15,275",
+      "momentum": "12,612 stars this week"
     },
     {
       "fullName": "sponsors/semantica-agi",
       "url": "https://github.com/sponsors/semantica-agi",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars": "5,463",
-      "momentum": "2,712 stars this week"
-    },
-    {
-      "fullName": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "stars": "20,377",
-      "momentum": "7,017 stars this week"
-    },
-    {
-      "fullName": "huangruiteng/loopx",
-      "url": "https://github.com/huangruiteng/loopx",
-      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "language": "Python",
-      "stars": "4,314",
-      "momentum": "2,687 stars this week"
-    },
-    {
-      "fullName": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "language": "Rust",
-      "stars": "14,920",
-      "momentum": "5,367 stars this week"
+      "stars": "6,191",
+      "momentum": "3,585 stars this week"
     },
     {
       "fullName": "google/skills",
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars": "17,858",
-      "momentum": "2,216 stars this week"
+      "stars": "18,012",
+      "momentum": "2,288 stars this week"
+    },
+    {
+      "fullName": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "language": "TypeScript",
+      "stars": "7,925",
+      "momentum": "6,020 stars this week"
+    },
+    {
+      "fullName": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": "21,060",
+      "momentum": "5,720 stars this week"
     },
     {
       "fullName": "sponsors/vitali87",
       "url": "https://github.com/sponsors/vitali87",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars": "4,024",
-      "momentum": "1,189 stars this week"
+      "stars": "4,167",
+      "momentum": "1,511 stars this week"
     },
     {
-      "fullName": "zhaoxuya520/reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "stars": "24,324",
-      "momentum": "6,730 stars this week"
-    },
-    {
-      "fullName": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "stars": "34,131",
-      "momentum": "3,517 stars this week"
-    },
-    {
-      "fullName": "drawdb-io/drawdb",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-      "language": "JavaScript",
-      "stars": "38,912",
-      "momentum": "597 stars this week"
-    },
-    {
-      "fullName": "sponsors/virgiliojr94",
-      "url": "https://github.com/sponsors/virgiliojr94",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "fullName": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
       "language": "Python",
-      "stars": "20,751",
-      "momentum": "4,155 stars this week"
-    },
-    {
-      "fullName": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "language": "Python",
-      "stars": "127,012",
-      "momentum": "3,252 stars this week"
-    },
-    {
-      "fullName": "LadybirdBrowser/ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "language": "C++",
-      "stars": "65,459",
-      "momentum": "679 stars this week"
+      "stars": "4,563",
+      "momentum": "2,509 stars this week"
     },
     {
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": "86,477",
-      "momentum": "4,671 stars this week"
+      "stars": "86,774",
+      "momentum": "4,817 stars this week"
     },
     {
-      "fullName": "sponsors/goauthentik",
-      "url": "https://github.com/sponsors/goauthentik",
-      "description": "The authentication glue you need.",
+      "fullName": "drawdb-io/drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "language": "JavaScript",
+      "stars": "38,998",
+      "momentum": "665 stars this week"
+    },
+    {
+      "fullName": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": "15,229",
+      "momentum": "4,043 stars this week"
+    },
+    {
+      "fullName": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "65,523",
+      "momentum": "743 stars this week"
+    },
+    {
+      "fullName": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "stars": "34,399",
+      "momentum": "2,953 stars this week"
+    },
+    {
+      "fullName": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
       "language": "Python",
-      "stars": "24,675",
-      "momentum": "2,003 stars this week"
+      "stars": "90,699",
+      "momentum": "1,420 stars this week"
+    },
+    {
+      "fullName": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": "24,768",
+      "momentum": "5,573 stars this week"
+    },
+    {
+      "fullName": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": "79,227",
+      "momentum": "2,384 stars this week"
     }
   ]
 }
