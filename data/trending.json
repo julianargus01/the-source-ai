@@ -5,194 +5,226 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars": "105,390",
-      "momentum": "494 stars today"
+      "stars": "107,689",
+      "momentum": "2,306 stars today"
     },
     {
-      "fullName": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": "53,723",
-      "momentum": "856 stars today"
+      "fullName": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": "1,715",
+      "momentum": "256 stars today"
     },
     {
-      "fullName": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars": "25,705",
-      "momentum": "115 stars today"
+      "stars": "2,489",
+      "momentum": "207 stars today"
+    },
+    {
+      "fullName": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": "29,096",
+      "momentum": "239 stars today"
     },
     {
       "fullName": "sponsors/mukul975",
       "url": "https://github.com/sponsors/mukul975",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars": "28,133",
-      "momentum": "156 stars today"
+      "stars": "28,850",
+      "momentum": "726 stars today"
     },
     {
-      "fullName": "sponsors/AlexsJones",
-      "url": "https://github.com/sponsors/AlexsJones",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars": "32,056",
-      "momentum": "187 stars today"
-    },
-    {
-      "fullName": "sponsors/santifer",
-      "url": "https://github.com/sponsors/santifer",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars": "64,272",
-      "momentum": "147 stars today"
-    },
-    {
-      "fullName": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "fullName": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": "18,859",
-      "momentum": "60 stars today"
-    },
-    {
-      "fullName": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "stars": "110,880",
-      "momentum": "140 stars today"
-    },
-    {
-      "fullName": "cordiverse/cordis",
-      "url": "https://github.com/cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
-      "language": "TypeScript",
-      "stars": "5,402",
-      "momentum": "959 stars today"
-    },
-    {
-      "fullName": "agalwood/Motrix",
-      "url": "https://github.com/agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "language": "TypeScript",
-      "stars": "52,866",
-      "momentum": "295 stars today"
-    }
-  ],
-  "weekly": [
-    {
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "language": "HTML",
-      "stars": "20,254",
-      "momentum": "15,600 stars this week"
-    },
-    {
-      "fullName": "sponsors/semantica-agi",
-      "url": "https://github.com/sponsors/semantica-agi",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "language": "Python",
-      "stars": "8,413",
-      "momentum": "5,284 stars this week"
-    },
-    {
-      "fullName": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "stars": "7,008",
-      "momentum": "2,950 stars this week"
-    },
-    {
-      "fullName": "megadose/holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "language": "Python",
-      "stars": "13,379",
-      "momentum": "1,287 stars this week"
-    },
-    {
-      "fullName": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars": "16,795",
-      "momentum": "6,435 stars this week"
-    },
-    {
-      "fullName": "macro-inc/macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "language": "Rust",
-      "stars": "3,496",
-      "momentum": "2,588 stars this week"
-    },
-    {
-      "fullName": "sponsors/vitali87",
-      "url": "https://github.com/sponsors/vitali87",
-      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "language": "Python",
-      "stars": "4,486",
-      "momentum": "1,686 stars this week"
-    },
-    {
-      "fullName": "sponsors/unslothai",
-      "url": "https://github.com/sponsors/unslothai",
-      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-      "language": "Python",
-      "stars": "73,041",
-      "momentum": "2,645 stars this week"
-    },
-    {
-      "fullName": "3b1b/manim",
-      "url": "https://github.com/3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
-      "language": "Python",
-      "stars": "91,446",
-      "momentum": "1,978 stars this week"
+      "stars": "463,842",
+      "momentum": "1,907 stars today"
     },
     {
       "fullName": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
-      "stars": "25,850",
-      "momentum": "759 stars this week"
+      "stars": "26,207",
+      "momentum": "710 stars today"
     },
     {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": "87,953",
-      "momentum": "2,882 stars this week"
+      "fullName": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": "53,449",
+      "momentum": "607 stars today"
+    },
+    {
+      "fullName": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": "24,177",
+      "momentum": "204 stars today"
+    },
+    {
+      "fullName": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": "19,220",
+      "momentum": "366 stars today"
+    },
+    {
+      "fullName": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": "38,931",
+      "momentum": "556 stars today"
+    },
+    {
+      "fullName": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "description": "",
+      "language": "TypeScript",
+      "stars": "15,787",
+      "momentum": "543 stars today"
+    },
+    {
+      "fullName": "sponsors/OpenCut-app",
+      "url": "https://github.com/sponsors/OpenCut-app",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": "84,525",
+      "momentum": "682 stars today"
+    }
+  ],
+  "weekly": [
+    {
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": "21,368",
+      "momentum": "16,260 stars this week"
+    },
+    {
+      "fullName": "sponsors/semantica-agi",
+      "url": "https://github.com/sponsors/semantica-agi",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "8,862",
+      "momentum": "4,746 stars this week"
+    },
+    {
+      "fullName": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": "7,358",
+      "momentum": "3,627 stars this week"
+    },
+    {
+      "fullName": "megadose/holehe",
+      "url": "https://github.com/megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": "13,534",
+      "momentum": "1,416 stars this week"
+    },
+    {
+      "fullName": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": "26,207",
+      "momentum": "1,477 stars this week"
+    },
+    {
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": "3,626",
+      "momentum": "2,724 stars this week"
+    },
+    {
+      "fullName": "sponsors/unslothai",
+      "url": "https://github.com/sponsors/unslothai",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": "73,463",
+      "momentum": "3,329 stars this week"
     },
     {
       "fullName": "sponsors/lightningpixel",
       "url": "https://github.com/sponsors/lightningpixel",
       "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
-      "stars": "6,225",
-      "momentum": "1,278 stars this week"
+      "stars": "6,563",
+      "momentum": "1,338 stars this week"
     },
     {
-      "fullName": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "stars": "22,519",
-      "momentum": "3,637 stars this week"
+      "fullName": "sponsors/AlexsJones",
+      "url": "https://github.com/sponsors/AlexsJones",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": "32,621",
+      "momentum": "861 stars this week"
     },
     {
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "fullName": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": "169,887",
-      "momentum": "2,698 stars this week"
+      "stars": "463,842",
+      "momentum": "8,071 stars this week"
+    },
+    {
+      "fullName": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": "17,078",
+      "momentum": "4,328 stars this week"
+    },
+    {
+      "fullName": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": "91,568",
+      "momentum": "1,724 stars this week"
+    },
+    {
+      "fullName": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": "9,105",
+      "momentum": "544 stars this week"
+    },
+    {
+      "fullName": "sponsors/vitali87",
+      "url": "https://github.com/sponsors/vitali87",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": "4,598",
+      "momentum": "1,135 stars this week"
+    },
+    {
+      "fullName": "superradcompany/microsandbox",
+      "url": "https://github.com/superradcompany/microsandbox",
+      "description": "🧱 easy fast local-first microVM runtime and library",
+      "language": "Rust",
+      "stars": "7,606",
+      "momentum": "352 stars this week"
     }
   ]
 }
