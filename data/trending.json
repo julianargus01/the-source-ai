@@ -1,124 +1,124 @@
 {
   "daily": [
     {
-      "fullName": "fmtlib/fmt",
-      "url": "https://github.com/fmtlib/fmt",
-      "description": "A modern formatting library",
-      "language": "C++",
-      "stars": "24,895",
-      "momentum": "955 stars today"
-    },
-    {
       "fullName": "sponsors/mattpocock",
       "url": "https://github.com/sponsors/mattpocock",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": "246,743",
-      "momentum": "1,576 stars today"
-    },
-    {
-      "fullName": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars": "240,663",
-      "momentum": "778 stars today"
+      "stars": "249,602",
+      "momentum": "2,757 stars today"
     },
     {
       "fullName": "sponsors/DietrichGebert",
       "url": "https://github.com/sponsors/DietrichGebert",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": "123,080",
-      "momentum": "2,138 stars today"
+      "stars": "124,985",
+      "momentum": "1,683 stars today"
     },
     {
-      "fullName": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
-      "language": "Python",
-      "stars": "173,520",
-      "momentum": "277 stars today"
+      "fullName": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "25,429",
+      "momentum": "681 stars today"
     },
     {
       "fullName": "sponsors/affaan-m",
       "url": "https://github.com/sponsors/affaan-m",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": "246,889",
-      "momentum": "749 stars today"
+      "stars": "248,100",
+      "momentum": "1,139 stars today"
     },
     {
-      "fullName": "sponsors/JuliusBrussee",
-      "url": "https://github.com/sponsors/JuliusBrussee",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "language": "Go",
-      "stars": "102,977",
-      "momentum": "545 stars today"
+      "fullName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": "173,998",
+      "momentum": "512 stars today"
     },
     {
       "fullName": "blader/humanizer",
       "url": "https://github.com/blader/humanizer",
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
-      "stars": "41,249",
-      "momentum": "1,214 stars today"
+      "stars": "42,409",
+      "momentum": "1,132 stars today"
     },
     {
-      "fullName": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "30,613",
-      "momentum": "1,626 stars today"
+      "stars": "241,334",
+      "momentum": "721 stars today"
     },
     {
-      "fullName": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "language": "HTML",
-      "stars": "8,257",
-      "momentum": "123 stars today"
-    },
-    {
-      "fullName": "bannedbook/fanqiang",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "description": "翻墙-科学上网",
-      "language": "Kotlin",
-      "stars": "52,049",
-      "momentum": "539 stars today"
-    },
-    {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": "91,933",
-      "momentum": "260 stars today"
-    },
-    {
-      "fullName": "ByteByteGoHq/system-design-101",
-      "url": "https://github.com/ByteByteGoHq/system-design-101",
-      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-      "language": "",
-      "stars": "88,214",
-      "momentum": "158 stars today"
+      "fullName": "sponsors/JuliusBrussee",
+      "url": "https://github.com/sponsors/JuliusBrussee",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": "103,468",
+      "momentum": "503 stars today"
     },
     {
       "fullName": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "language": "TypeScript",
-      "stars": "1,838",
-      "momentum": "130 stars today"
+      "stars": "2,253",
+      "momentum": "395 stars today"
     },
     {
-      "fullName": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "fullName": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
-      "stars": "45,926",
-      "momentum": "498 stars today"
+      "stars": "4,446",
+      "momentum": "68 stars today"
+    },
+    {
+      "fullName": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": "52,700",
+      "momentum": "735 stars today"
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "17,370",
+      "momentum": "1,345 stars today"
+    },
+    {
+      "fullName": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": "30,949",
+      "momentum": "340 stars today"
+    },
+    {
+      "fullName": "radixark/miles",
+      "url": "https://github.com/radixark/miles",
+      "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "language": "Python",
+      "stars": "2,499",
+      "momentum": "55 stars today"
+    },
+    {
+      "fullName": "sponsors/anomalyco",
+      "url": "https://github.com/sponsors/anomalyco",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": "203,889",
+      "momentum": "314 stars today"
     }
   ],
   "weekly": [
@@ -127,120 +127,120 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars": "45,389",
-      "momentum": "26,626 stars this week"
-    },
-    {
-      "fullName": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "stars": "16,788",
-      "momentum": "10,679 stars this week"
+      "stars": "47,600",
+      "momentum": "24,227 stars this week"
     },
     {
       "fullName": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars": "30,976",
-      "momentum": "9,426 stars this week"
+      "stars": "31,397",
+      "momentum": "10,023 stars this week"
     },
     {
-      "fullName": "JetBrains/go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
-      "language": "Go",
-      "stars": "3,088",
-      "momentum": "1,403 stars this week"
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "17,333",
+      "momentum": "10,485 stars this week"
     },
     {
       "fullName": "Gitlawb/openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
-      "stars": "32,262",
-      "momentum": "1,035 stars this week"
-    },
-    {
-      "fullName": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars": "42,330",
-      "momentum": "7,558 stars this week"
-    },
-    {
-      "fullName": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "stars": "58,193",
-      "momentum": "2,669 stars this week"
-    },
-    {
-      "fullName": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars": "16,607",
-      "momentum": "2,767 stars this week"
-    },
-    {
-      "fullName": "omacom/omarchy",
-      "url": "https://github.com/omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "stars": "37,630",
-      "momentum": "5,577 stars this week"
+      "stars": "32,528",
+      "momentum": "1,389 stars this week"
     },
     {
       "fullName": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": "30,613",
-      "momentum": "787 stars this week"
+      "stars": "30,949",
+      "momentum": "2,324 stars this week"
+    },
+    {
+      "fullName": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": "58,466",
+      "momentum": "3,122 stars this week"
+    },
+    {
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": "42,585",
+      "momentum": "7,370 stars this week"
+    },
+    {
+      "fullName": "sponsors/Lakr233",
+      "url": "https://github.com/sponsors/Lakr233",
+      "description": "",
+      "language": "Swift",
+      "stars": "10,426",
+      "momentum": "2,137 stars this week"
+    },
+    {
+      "fullName": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": "25,429",
+      "momentum": "993 stars this week"
+    },
+    {
+      "fullName": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": "16,937",
+      "momentum": "2,941 stars this week"
     },
     {
       "fullName": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars": "30,275",
-      "momentum": "2,045 stars this week"
-    },
-    {
-      "fullName": "freestylefly/awesome-gpt-image-2",
-      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "language": "JavaScript",
-      "stars": "27,705",
-      "momentum": "7,006 stars this week"
-    },
-    {
-      "fullName": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars": "6,743",
-      "momentum": "1,333 stars this week"
-    },
-    {
-      "fullName": "sponsors/abi",
-      "url": "https://github.com/sponsors/abi",
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "language": "Python",
-      "stars": "77,353",
-      "momentum": "2,634 stars this week"
+      "stars": "30,415",
+      "momentum": "2,146 stars this week"
     },
     {
       "fullName": "sponsors/colinhacks",
       "url": "https://github.com/sponsors/colinhacks",
       "description": "TypeScript-first schema validation with static type inference",
       "language": "TypeScript",
-      "stars": "43,804",
-      "momentum": "252 stars this week"
+      "stars": "43,829",
+      "momentum": "277 stars this week"
+    },
+    {
+      "fullName": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": "7,355",
+      "momentum": "1,846 stars this week"
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "17,370",
+      "momentum": "3,902 stars this week"
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "",
+      "stars": "94,114",
+      "momentum": "1,130 stars this week"
     }
   ]
 }
