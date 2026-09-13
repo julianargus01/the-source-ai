@@ -1,124 +1,124 @@
 {
   "daily": [
     {
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "29,273",
+      "momentum": "652 stars today"
+    },
+    {
+      "fullName": "sponsors/ever-co",
+      "url": "https://github.com/sponsors/ever-co",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars": "4,795",
+      "momentum": "58 stars today"
+    },
+    {
       "fullName": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": "28,852",
-      "momentum": "2,265 stars today"
+      "stars": "31,341",
+      "momentum": "2,898 stars today"
+    },
+    {
+      "fullName": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars": "5,499",
+      "momentum": "215 stars today"
     },
     {
       "fullName": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars": "1,661",
-      "momentum": "505 stars today"
+      "stars": "2,083",
+      "momentum": "444 stars today"
+    },
+    {
+      "fullName": "sponsors/calesthio",
+      "url": "https://github.com/sponsors/calesthio",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": "58,230",
+      "momentum": "383 stars today"
     },
     {
       "fullName": "sponsors/asgeirtj",
       "url": "https://github.com/sponsors/asgeirtj",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars": "65,172",
-      "momentum": "216 stars today"
+      "stars": "65,847",
+      "momentum": "727 stars today"
     },
     {
-      "fullName": "nab138/iloader",
-      "url": "https://github.com/nab138/iloader",
-      "description": "User friendly sideloader",
-      "language": "TypeScript",
-      "stars": "3,023",
-      "momentum": "209 stars today"
-    },
-    {
-      "fullName": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "description": "",
-      "language": "Batchfile",
-      "stars": "33,182",
-      "momentum": "52 stars today"
-    },
-    {
-      "fullName": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "language": "Python",
-      "stars": "5,074",
-      "momentum": "264 stars today"
-    },
-    {
-      "fullName": "Sonarr/Sonarr",
-      "url": "https://github.com/Sonarr/Sonarr",
-      "description": "Smart PVR for newsgroup and bittorrent users.",
-      "language": "C#",
-      "stars": "15,867",
-      "momentum": "228 stars today"
-    },
-    {
-      "fullName": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "language": "TypeScript",
-      "stars": "2,374",
-      "momentum": "377 stars today"
-    },
-    {
-      "fullName": "yuliskov/SmartTube",
-      "url": "https://github.com/yuliskov/SmartTube",
-      "description": "Browse media content with your own rules on Android TV",
-      "language": "Java",
-      "stars": "33,134",
-      "momentum": "247 stars today"
-    },
-    {
-      "fullName": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "stars": "137,465",
-      "momentum": "237 stars today"
-    },
-    {
-      "fullName": "p1neappleXpress/OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "fullName": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars": "1,336",
-      "momentum": "355 stars today"
-    },
-    {
-      "fullName": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "stars": "4,859",
-      "momentum": "237 stars today"
-    },
-    {
-      "fullName": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "stars": "3,452",
-      "momentum": "99 stars today"
+      "stars": "23,796",
+      "momentum": "613 stars today"
     },
     {
       "fullName": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
-      "stars": "7,134",
-      "momentum": "193 stars today"
+      "stars": "7,615",
+      "momentum": "500 stars today"
     },
     {
-      "fullName": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "fullName": "yuliskov/SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars": "33,365",
+      "momentum": "238 stars today"
+    },
+    {
+      "fullName": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
       "language": "Rust",
-      "stars": "7,097",
-      "momentum": "44 stars today"
+      "stars": "1,904",
+      "momentum": "304 stars today"
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": "26,046",
+      "momentum": "2,546 stars today"
+    },
+    {
+      "fullName": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": "3,964",
+      "momentum": "507 stars today"
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": "23,099",
+      "momentum": "438 stars today"
+    },
+    {
+      "fullName": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": "5,304",
+      "momentum": "268 stars today"
     }
   ],
   "weekly": [
@@ -127,120 +127,120 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars": "43,116",
-      "momentum": "13,164 stars this week"
+      "stars": "44,044",
+      "momentum": "15,924 stars this week"
     },
     {
       "fullName": "sponsors/affaan-m",
       "url": "https://github.com/sponsors/affaan-m",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": "256,886",
-      "momentum": "8,714 stars this week"
+      "stars": "257,557",
+      "momentum": "8,086 stars this week"
     },
     {
       "fullName": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": "6,509",
-      "momentum": "1,063 stars this week"
-    },
-    {
-      "fullName": "sponsors/DietrichGebert",
-      "url": "https://github.com/sponsors/DietrichGebert",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "stars": "136,392",
-      "momentum": "11,054 stars this week"
-    },
-    {
-      "fullName": "sponsors/mksglu",
-      "url": "https://github.com/sponsors/mksglu",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars": "22,298",
-      "momentum": "1,810 stars this week"
+      "stars": "6,594",
+      "momentum": "1,120 stars this week"
     },
     {
       "fullName": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": "28,852",
-      "momentum": "8,916 stars this week"
+      "stars": "31,341",
+      "momentum": "10,510 stars this week"
+    },
+    {
+      "fullName": "sponsors/mksglu",
+      "url": "https://github.com/sponsors/mksglu",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": "22,562",
+      "momentum": "1,936 stars this week"
+    },
+    {
+      "fullName": "sponsors/DietrichGebert",
+      "url": "https://github.com/sponsors/DietrichGebert",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "137,136",
+      "momentum": "9,272 stars this week"
     },
     {
       "fullName": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars": "59,337",
-      "momentum": "11,006 stars this week"
+      "stars": "60,475",
+      "momentum": "10,442 stars this week"
     },
     {
       "fullName": "openai/skills",
       "url": "https://github.com/openai/skills",
       "description": "Skills Catalog for Codex",
       "language": "Python",
-      "stars": "26,984",
-      "momentum": "1,532 stars this week"
+      "stars": "27,069",
+      "momentum": "1,579 stars this week"
     },
     {
       "fullName": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": "49,140",
-      "momentum": "5,100 stars this week"
-    },
-    {
-      "fullName": "humanlayer/skills",
-      "url": "https://github.com/humanlayer/skills",
-      "description": "",
-      "language": "TypeScript",
-      "stars": "3,867",
-      "momentum": "1,637 stars this week"
-    },
-    {
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars": "38,742",
-      "momentum": "7,776 stars this week"
-    },
-    {
-      "fullName": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars": "47,209",
-      "momentum": "4,649 stars this week"
+      "stars": "49,430",
+      "momentum": "5,124 stars this week"
     },
     {
       "fullName": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": "183,076",
-      "momentum": "4,650 stars this week"
+      "stars": "183,508",
+      "momentum": "4,823 stars this week"
+    },
+    {
+      "fullName": "sponsors/obra",
+      "url": "https://github.com/sponsors/obra",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "286,091",
+      "momentum": "3,938 stars this week"
+    },
+    {
+      "fullName": "sponsors/coreyhaines31",
+      "url": "https://github.com/sponsors/coreyhaines31",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": "49,939",
+      "momentum": "2,822 stars this week"
     },
     {
       "fullName": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": "51,739",
-      "momentum": "804 stars this week"
+      "stars": "51,814",
+      "momentum": "783 stars this week"
     },
     {
-      "fullName": "sponsors/mattpocock",
-      "url": "https://github.com/sponsors/mattpocock",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": "260,297",
-      "momentum": "10,571 stars this week"
+      "fullName": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": "39,114",
+      "momentum": "7,409 stars this week"
+    },
+    {
+      "fullName": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": "36,410",
+      "momentum": "4,417 stars this week"
     }
   ]
 }
