@@ -1,124 +1,116 @@
 {
   "daily": [
     {
-      "fullName": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "stars": "31,652",
-      "momentum": "2,233 stars today"
-    },
-    {
       "fullName": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": "25,260",
-      "momentum": "1,796 stars today"
+      "stars": "27,919",
+      "momentum": "2,751 stars today"
     },
     {
-      "fullName": "multimodal-art-projection/YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "stars": "8,235",
-      "momentum": "578 stars today"
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "33,400",
+      "momentum": "2,035 stars today"
+    },
+    {
+      "fullName": "sponsors/ever-co",
+      "url": "https://github.com/sponsors/ever-co",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars": "6,453",
+      "momentum": "632 stars today"
     },
     {
       "fullName": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars": "28,810",
-      "momentum": "2,774 stars today"
+      "stars": "30,601",
+      "momentum": "2,081 stars today"
     },
     {
-      "fullName": "666ghj/MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "stars": "73,021",
-      "momentum": "524 stars today"
+      "fullName": "sponsors/Homebrew",
+      "url": "https://github.com/sponsors/Homebrew",
+      "description": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars": "1,211",
+      "momentum": "356 stars today"
     },
     {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": "81,060",
-      "momentum": "640 stars today"
-    },
-    {
-      "fullName": "sponsors/asgeirtj",
-      "url": "https://github.com/sponsors/asgeirtj",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "stars": "66,654",
-      "momentum": "770 stars today"
-    },
-    {
-      "fullName": "rlaope/oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "language": "Python",
-      "stars": "1,927",
-      "momentum": "52 stars today"
-    },
-    {
-      "fullName": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
-      "stars": "91,185",
-      "momentum": "311 stars today"
-    },
-    {
-      "fullName": "sponsors/dani-garcia",
-      "url": "https://github.com/sponsors/dani-garcia",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "language": "Rust",
-      "stars": "67,477",
-      "momentum": "110 stars today"
-    },
-    {
-      "fullName": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars": "105,920",
-      "momentum": "756 stars today"
-    },
-    {
-      "fullName": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars": "93,745",
-      "momentum": "370 stars today"
-    },
-    {
-      "fullName": "tech-leads-club/agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "fullName": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars": "5,976",
-      "momentum": "506 stars today"
+      "stars": "2,702",
+      "momentum": "205 stars today"
     },
     {
-      "fullName": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "language": "Python",
-      "stars": "37,295",
-      "momentum": "204 stars today"
+      "fullName": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": "3,136",
+      "momentum": "593 stars today"
     },
     {
-      "fullName": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "fullName": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": "76,520",
+      "momentum": "755 stars today"
+    },
+    {
+      "fullName": "sponsors/danny-avila",
+      "url": "https://github.com/sponsors/danny-avila",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars": "43,712",
+      "momentum": "261 stars today"
+    },
+    {
+      "fullName": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": "4,535",
+      "momentum": "102 stars today"
+    },
+    {
+      "fullName": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
       "language": "Python",
-      "stars": "165,890",
-      "momentum": "528 stars today"
+      "stars": "1,083",
+      "momentum": "122 stars today"
+    },
+    {
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "94,632",
+      "momentum": "354 stars today"
+    },
+    {
+      "fullName": "sponsors/tonhowtf",
+      "url": "https://github.com/sponsors/tonhowtf",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars": "12,681",
+      "momentum": "318 stars today"
+    },
+    {
+      "fullName": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": "105,570",
+      "momentum": "437 stars today"
     }
   ],
   "weekly": [
@@ -127,120 +119,120 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars": "45,246",
-      "momentum": "16,740 stars this week"
+      "stars": "46,095",
+      "momentum": "17,658 stars this week"
     },
     {
       "fullName": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars": "33,289",
-      "momentum": "12,931 stars this week"
-    },
-    {
-      "fullName": "sponsors/affaan-m",
-      "url": "https://github.com/sponsors/affaan-m",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": "258,250",
-      "momentum": "7,264 stars this week"
+      "stars": "34,483",
+      "momentum": "14,403 stars this week"
     },
     {
       "fullName": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": "6,686",
-      "momentum": "1,181 stars this week"
+      "stars": "6,767",
+      "momentum": "1,233 stars this week"
     },
     {
-      "fullName": "sponsors/DietrichGebert",
-      "url": "https://github.com/sponsors/DietrichGebert",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "fullName": "sponsors/affaan-m",
+      "url": "https://github.com/sponsors/affaan-m",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": "138,217",
-      "momentum": "8,444 stars this week"
+      "stars": "259,045",
+      "momentum": "6,085 stars this week"
     },
     {
       "fullName": "sponsors/mksglu",
       "url": "https://github.com/sponsors/mksglu",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": "22,811",
-      "momentum": "2,102 stars this week"
+      "stars": "23,032",
+      "momentum": "2,241 stars this week"
     },
     {
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars": "49,953",
-      "momentum": "5,146 stars this week"
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": "27,919",
+      "momentum": "2,709 stars this week"
     },
     {
-      "fullName": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "fullName": "sponsors/DietrichGebert",
+      "url": "https://github.com/sponsors/DietrichGebert",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars": "61,973",
-      "momentum": "10,132 stars this week"
-    },
-    {
-      "fullName": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "stars": "27,171",
-      "momentum": "1,622 stars this week"
-    },
-    {
-      "fullName": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars": "183,942",
-      "momentum": "5,191 stars this week"
+      "stars": "139,192",
+      "momentum": "7,722 stars this week"
     },
     {
       "fullName": "sponsors/obra",
       "url": "https://github.com/sponsors/obra",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "286,595",
-      "momentum": "4,068 stars this week"
-    },
-    {
-      "fullName": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars": "48,058",
-      "momentum": "3,673 stars this week"
+      "stars": "287,064",
+      "momentum": "4,124 stars this week"
     },
     {
       "fullName": "max-sixty/worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
-      "stars": "7,631",
-      "momentum": "588 stars this week"
+      "stars": "7,755",
+      "momentum": "761 stars this week"
     },
     {
-      "fullName": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": "36,774",
-      "momentum": "4,202 stars this week"
+      "stars": "50,317",
+      "momentum": "5,052 stars this week"
     },
     {
-      "fullName": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "stars": "39,701",
-      "momentum": "7,129 stars this week"
+      "fullName": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "184,316",
+      "momentum": "4,604 stars this week"
+    },
+    {
+      "fullName": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": "48,465",
+      "momentum": "3,201 stars this week"
+    },
+    {
+      "fullName": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": "27,264",
+      "momentum": "1,350 stars this week"
+    },
+    {
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "33,400",
+      "momentum": "5,084 stars this week"
+    },
+    {
+      "fullName": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": "63,282",
+      "momentum": "9,868 stars this week"
     }
   ]
 }
