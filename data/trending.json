@@ -1,108 +1,100 @@
 {
   "daily": [
     {
-      "fullName": "sponsors/affaan-m",
-      "url": "https://github.com/sponsors/affaan-m",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": "263,466",
-      "momentum": "1,012 stars today"
-    },
-    {
       "fullName": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
-      "stars": "5,076",
-      "momentum": "89 stars today"
-    },
-    {
-      "fullName": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars": "17,706",
-      "momentum": "2,375 stars today"
+      "stars": "5,761",
+      "momentum": "607 stars today"
     },
     {
       "fullName": "sponsors/trycua",
       "url": "https://github.com/sponsors/trycua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars": "25,002",
-      "momentum": "1,012 stars today"
-    },
-    {
-      "fullName": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "description": "",
-      "language": "Python",
-      "stars": "35,262",
-      "momentum": "236 stars today"
-    },
-    {
-      "fullName": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars": "45,435",
-      "momentum": "32 stars today"
-    },
-    {
-      "fullName": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars": "146,990",
-      "momentum": "415 stars today"
-    },
-    {
-      "fullName": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
-      "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
-      "language": "Python",
-      "stars": "4,481",
-      "momentum": "174 stars today"
-    },
-    {
-      "fullName": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "stars": "5,241",
-      "momentum": "461 stars today"
+      "stars": "25,600",
+      "momentum": "609 stars today"
     },
     {
       "fullName": "Open-Dev-Society/OpenStock",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
-      "stars": "16,599",
-      "momentum": "752 stars today"
+      "stars": "17,530",
+      "momentum": "843 stars today"
+    },
+    {
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": "7,571",
+      "momentum": "217 stars today"
     },
     {
       "fullName": "coder/coder",
       "url": "https://github.com/coder/coder",
       "description": "Secure environments for developers and their agents",
       "language": "Go",
-      "stars": "15,895",
-      "momentum": "382 stars today"
+      "stars": "16,344",
+      "momentum": "461 stars today"
     },
     {
-      "fullName": "vercel-labs/json-render",
-      "url": "https://github.com/vercel-labs/json-render",
-      "description": "The Generative UI framework",
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": "35,725",
+      "momentum": "425 stars today"
+    },
+    {
+      "fullName": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": "12,270",
+      "momentum": "69 stars today"
+    },
+    {
+      "fullName": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": "13,485",
+      "momentum": "177 stars today"
+    },
+    {
+      "fullName": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": "8,129",
+      "momentum": "266 stars today"
+    },
+    {
+      "fullName": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars": "103,873",
+      "momentum": "221 stars today"
+    },
+    {
+      "fullName": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
       "language": "TypeScript",
-      "stars": "17,115",
-      "momentum": "332 stars today"
+      "stars": "37,741",
+      "momentum": "360 stars today"
     },
     {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": "97,520",
-      "momentum": "729 stars today"
+      "fullName": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": "3,643",
+      "momentum": "79 stars today"
     }
   ],
   "weekly": [
@@ -111,120 +103,120 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": "38,246",
-      "momentum": "15,028 stars this week"
+      "stars": "39,087",
+      "momentum": "15,504 stars this week"
     },
     {
       "fullName": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars": "146,990",
-      "momentum": "1,999 stars this week"
+      "stars": "147,438",
+      "momentum": "2,342 stars this week"
     },
     {
-      "fullName": "sponsors/affaan-m",
-      "url": "https://github.com/sponsors/affaan-m",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": "263,466",
-      "momentum": "6,265 stars this week"
+      "fullName": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "36,787",
+      "momentum": "7,441 stars this week"
     },
     {
       "fullName": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
-      "stars": "27,903",
-      "momentum": "4,867 stars this week"
+      "stars": "28,440",
+      "momentum": "5,242 stars this week"
     },
     {
-      "fullName": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
+      "fullName": "sponsors/affaan-m",
+      "url": "https://github.com/sponsors/affaan-m",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": "97,520",
-      "momentum": "3,445 stars this week"
+      "stars": "264,600",
+      "momentum": "6,453 stars this week"
     },
     {
       "fullName": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": "25,265",
-      "momentum": "1,034 stars this week"
+      "stars": "25,335",
+      "momentum": "1,298 stars this week"
     },
     {
-      "fullName": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "fullName": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": "39,218",
-      "momentum": "10,207 stars this week"
-    },
-    {
-      "fullName": "sponsors/mksglu",
-      "url": "https://github.com/sponsors/mksglu",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars": "23,750",
-      "momentum": "1,359 stars this week"
-    },
-    {
-      "fullName": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "stars": "8,167",
-      "momentum": "1,141 stars this week"
-    },
-    {
-      "fullName": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "stars": "90,873",
-      "momentum": "417 stars this week"
-    },
-    {
-      "fullName": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "stars": "50,549",
-      "momentum": "3,024 stars this week"
+      "stars": "98,072",
+      "momentum": "3,986 stars this week"
     },
     {
       "fullName": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars": "73,341",
-      "momentum": "5,404 stars this week"
+      "stars": "74,530",
+      "momentum": "5,841 stars this week"
     },
     {
-      "fullName": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars": "83,757",
-      "momentum": "3,914 stars this week"
-    },
-    {
-      "fullName": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
+      "fullName": "sponsors/mksglu",
+      "url": "https://github.com/sponsors/mksglu",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
-      "stars": "51,868",
-      "momentum": "2,498 stars this week"
+      "stars": "23,862",
+      "momentum": "1,242 stars this week"
+    },
+    {
+      "fullName": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": "90,953",
+      "momentum": "480 stars this week"
     },
     {
       "fullName": "sponsors/danny-avila",
       "url": "https://github.com/sponsors/danny-avila",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
-      "stars": "44,470",
-      "momentum": "1,573 stars this week"
+      "stars": "44,564",
+      "momentum": "1,600 stars this week"
+    },
+    {
+      "fullName": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "40,390",
+      "momentum": "8,111 stars this week"
+    },
+    {
+      "fullName": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": "84,300",
+      "momentum": "3,690 stars this week"
+    },
+    {
+      "fullName": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": "50,999",
+      "momentum": "3,045 stars this week"
+    },
+    {
+      "fullName": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars": "68,958",
+      "momentum": "1,167 stars this week"
     }
   ]
 }
