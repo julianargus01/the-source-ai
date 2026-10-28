@@ -1,84 +1,116 @@
 {
   "daily": [
     {
-      "fullName": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "stars": "38,591",
-      "momentum": "2,859 stars today"
+      "fullName": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": "4,858",
+      "momentum": "1,075 stars today"
     },
     {
-      "fullName": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "language": "TypeScript",
-      "stars": "2,215",
-      "momentum": "794 stars today"
+      "fullName": "sponsors/elayadesign",
+      "url": "https://github.com/sponsors/elayadesign",
+      "description": "",
+      "language": "",
+      "stars": "10,923",
+      "momentum": "1,395 stars today"
     },
     {
       "fullName": "sponsors/obra",
       "url": "https://github.com/sponsors/obra",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "306,230",
-      "momentum": "608 stars today"
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "Rust",
-      "stars": "90,275",
-      "momentum": "1,458 stars today"
-    },
-    {
-      "fullName": "makecindy/cindy",
-      "url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "language": "TypeScript",
-      "stars": "7,339",
-      "momentum": "1,446 stars today"
-    },
-    {
-      "fullName": "gitroomhq/postiz-app",
-      "url": "https://github.com/gitroomhq/postiz-app",
-      "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-      "language": "TypeScript",
-      "stars": "39,153",
-      "momentum": "953 stars today"
-    },
-    {
-      "fullName": "sponsors/affaan-m",
-      "url": "https://github.com/sponsors/affaan-m",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": "290,643",
-      "momentum": "1,183 stars today"
+      "stars": "307,258",
+      "momentum": "1,096 stars today"
     },
     {
       "fullName": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/",
       "language": "Python",
-      "stars": "45,570",
-      "momentum": "1,587 stars today"
+      "stars": "47,718",
+      "momentum": "2,376 stars today"
     },
     {
-      "fullName": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "fullName": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": "5,310",
+      "momentum": "106 stars today"
+    },
+    {
+      "fullName": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "40,442",
+      "momentum": "2,109 stars today"
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": "92,239",
+      "momentum": "1,471 stars today"
+    },
+    {
+      "fullName": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "language": "TypeScript",
-      "stars": "3,801",
-      "momentum": "1,211 stars today"
+      "stars": "7,964",
+      "momentum": "740 stars today"
+    },
+    {
+      "fullName": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "language": "TypeScript",
+      "stars": "3,097",
+      "momentum": "1,053 stars today"
     },
     {
       "fullName": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "description": "LIST OF ALL MY JAILBREAKS",
       "language": "",
-      "stars": "5,265",
-      "momentum": "890 stars today"
+      "stars": "6,834",
+      "momentum": "1,478 stars today"
+    },
+    {
+      "fullName": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "language": "JavaScript",
+      "stars": "34,213",
+      "momentum": "3,209 stars today"
+    },
+    {
+      "fullName": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "stars": "3,482",
+      "momentum": "212 stars today"
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": "100,831",
+      "momentum": "596 stars today"
+    },
+    {
+      "fullName": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "Jupyter Notebook",
+      "stars": "18,419",
+      "momentum": "143 stars today"
     }
   ],
   "weekly": [
@@ -87,104 +119,88 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
-      "stars": "49,867",
-      "momentum": "16,593 stars this week"
-    },
-    {
-      "fullName": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "language": "Python",
-      "stars": "33,392",
-      "momentum": "2,822 stars this week"
+      "stars": "51,369",
+      "momentum": "16,388 stars this week"
     },
     {
       "fullName": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
-      "stars": "22,616",
-      "momentum": "2,546 stars this week"
+      "stars": "23,232",
+      "momentum": "3,081 stars this week"
     },
     {
       "fullName": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
-      "stars": "225,360",
-      "momentum": "3,286 stars this week"
+      "stars": "225,877",
+      "momentum": "4,039 stars this week"
+    },
+    {
+      "fullName": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "33,604",
+      "momentum": "2,789 stars this week"
     },
     {
       "fullName": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": "117,178",
-      "momentum": "3,437 stars this week"
+      "stars": "117,786",
+      "momentum": "4,882 stars this week"
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": "92,239",
+      "momentum": "6,713 stars this week"
     },
     {
       "fullName": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars": "136,824",
-      "momentum": "7,183 stars this week"
+      "stars": "137,641",
+      "momentum": "7,268 stars this week"
+    },
+    {
+      "fullName": "sponsors/Leonxlnx",
+      "url": "https://github.com/sponsors/Leonxlnx",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "stars": "104,246",
+      "momentum": "3,941 stars this week"
     },
     {
       "fullName": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars": "79,724",
-      "momentum": "2,683 stars this week"
+      "stars": "79,934",
+      "momentum": "2,296 stars this week"
     },
     {
       "fullName": "sponsors/anomalyco",
       "url": "https://github.com/sponsors/anomalyco",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": "222,298",
-      "momentum": "5,070 stars this week"
+      "stars": "222,686",
+      "momentum": "4,334 stars this week"
     },
     {
-      "fullName": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars": "107,897",
-      "momentum": "9,241 stars this week"
-    },
-    {
-      "fullName": "android/skills",
-      "url": "https://github.com/android/skills",
-      "description": "",
-      "language": "Kotlin",
-      "stars": "9,893",
-      "momentum": "823 stars this week"
-    },
-    {
-      "fullName": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars": "14,020",
-      "momentum": "2,838 stars this week"
-    },
-    {
-      "fullName": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars": "30,754",
-      "momentum": "1,881 stars this week"
-    },
-    {
-      "fullName": "fastapi/fastapi",
-      "url": "https://github.com/fastapi/fastapi",
-      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-      "language": "Python",
-      "stars": "104,141",
-      "momentum": "1,066 stars this week"
+      "fullName": "sponsors/jakubkrehel",
+      "url": "https://github.com/sponsors/jakubkrehel",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "stars": "8,927",
+      "momentum": "746 stars this week"
     }
   ]
 }
