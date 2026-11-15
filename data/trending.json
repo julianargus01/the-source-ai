@@ -1,124 +1,100 @@
 {
   "daily": [
     {
-      "fullName": "backnotprop/plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "language": "TypeScript",
-      "stars": "10,916",
-      "momentum": "412 stars today"
-    },
-    {
-      "fullName": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "description": "Keep your coding agent up to date with the latest web best practices",
-      "language": "TypeScript",
-      "stars": "5,725",
-      "momentum": "1,225 stars today"
-    },
-    {
-      "fullName": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "language": "Python",
-      "stars": "4,640",
-      "momentum": "556 stars today"
-    },
-    {
-      "fullName": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars": "56,175",
-      "momentum": "673 stars today"
-    },
-    {
-      "fullName": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars": "51,274",
-      "momentum": "897 stars today"
-    },
-    {
-      "fullName": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "language": "TypeScript",
-      "stars": "30,250",
-      "momentum": "116 stars today"
-    },
-    {
       "fullName": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars": "24,369",
-      "momentum": "495 stars today"
+      "stars": "25,468",
+      "momentum": "1,041 stars today"
     },
     {
       "fullName": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
-      "stars": "17,271",
-      "momentum": "9 stars today"
+      "stars": "17,723",
+      "momentum": "393 stars today"
     },
     {
-      "fullName": "sponsors/ashhart",
-      "url": "https://github.com/sponsors/ashhart",
-      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "language": "Zig",
-      "stars": "2,122",
-      "momentum": "53 stars today"
+      "fullName": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": "9,192",
+      "momentum": "248 stars today"
     },
     {
-      "fullName": "sponsors/JuliusBrussee",
-      "url": "https://github.com/sponsors/JuliusBrussee",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "fullName": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "stars": "11,735",
+      "momentum": "860 stars today"
+    },
+    {
+      "fullName": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": "56,806",
+      "momentum": "718 stars today"
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": "119,943",
-      "momentum": "227 stars today"
-    },
-    {
-      "fullName": "sponsors/louislam",
-      "url": "https://github.com/sponsors/louislam",
-      "description": "A fancy self-hosted monitoring tool",
-      "language": "JavaScript",
-      "stars": "94,155",
-      "momentum": "432 stars today"
-    },
-    {
-      "fullName": "we-promise/sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "stars": "15,173",
-      "momentum": "659 stars today"
+      "stars": "51,907",
+      "momentum": "688 stars today"
     },
     {
       "fullName": "Tencent/LoopForge",
       "url": "https://github.com/Tencent/LoopForge",
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
-      "stars": "806",
-      "momentum": "101 stars today"
+      "stars": "1,355",
+      "momentum": "484 stars today"
     },
     {
-      "fullName": "Likely7/Veyra-NRVideo",
-      "url": "https://github.com/Likely7/Veyra-NRVideo",
-      "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "fullName": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "description": "Tensor library for machine learning",
       "language": "C++",
-      "stars": "2,020",
-      "momentum": "423 stars today"
+      "stars": "15,859",
+      "momentum": "53 stars today"
     },
     {
-      "fullName": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
-      "language": "Rust",
-      "stars": "5,692",
-      "momentum": "269 stars today"
+      "fullName": "sponsors/elementalsouls",
+      "url": "https://github.com/sponsors/elementalsouls",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "language": "Python",
+      "stars": "6,194",
+      "momentum": "221 stars today"
+    },
+    {
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "stars": "6,969",
+      "momentum": "1,220 stars today"
+    },
+    {
+      "fullName": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "language": "Python",
+      "stars": "5,379",
+      "momentum": "707 stars today"
+    },
+    {
+      "fullName": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "language": "Python",
+      "stars": "1,513",
+      "momentum": "205 stars today"
     }
   ],
   "weekly": [
@@ -127,88 +103,88 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": "27,959",
-      "momentum": "13,375 stars this week"
-    },
-    {
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars": "111,679",
-      "momentum": "13,364 stars this week"
+      "stars": "28,727",
+      "momentum": "13,660 stars this week"
     },
     {
       "fullName": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars": "194,516",
-      "momentum": "6,169 stars this week"
+      "stars": "195,258",
+      "momentum": "6,220 stars this week"
     },
     {
-      "fullName": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars": "51,106",
-      "momentum": "4,360 stars this week"
-    },
-    {
-      "fullName": "google/elephant-goldfish-model",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "description": "Open-source plugin for designing and reviewing software with agents",
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars": "19,041",
-      "momentum": "5,560 stars this week"
-    },
-    {
-      "fullName": "sponsors/milind-soni",
-      "url": "https://github.com/sponsors/milind-soni",
-      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "language": "TypeScript",
-      "stars": "22,677",
-      "momentum": "7,763 stars this week"
-    },
-    {
-      "fullName": "sponsors/ZhuLinsen",
-      "url": "https://github.com/sponsors/ZhuLinsen",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars": "72,205",
-      "momentum": "3,778 stars this week"
-    },
-    {
-      "fullName": "google-deepmind/mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "stars": "17,960",
-      "momentum": "1,764 stars this week"
+      "stars": "112,364",
+      "momentum": "12,401 stars this week"
     },
     {
       "fullName": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars": "10,916",
-      "momentum": "511 stars this week"
+      "stars": "11,735",
+      "momentum": "818 stars this week"
+    },
+    {
+      "fullName": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": "51,539",
+      "momentum": "4,601 stars this week"
+    },
+    {
+      "fullName": "sponsors/ZhuLinsen",
+      "url": "https://github.com/sponsors/ZhuLinsen",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": "72,457",
+      "momentum": "4,526 stars this week"
+    },
+    {
+      "fullName": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": "15,633",
+      "momentum": "4,483 stars this week"
+    },
+    {
+      "fullName": "sponsors/milind-soni",
+      "url": "https://github.com/sponsors/milind-soni",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": "23,236",
+      "momentum": "6,413 stars this week"
+    },
+    {
+      "fullName": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "description": "Open-source plugin for designing and reviewing software with agents",
+      "language": "Python",
+      "stars": "19,640",
+      "momentum": "5,539 stars this week"
+    },
+    {
+      "fullName": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": "18,059",
+      "momentum": "1,859 stars this week"
     },
     {
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": "117,488",
-      "momentum": "3,502 stars this week"
-    },
-    {
-      "fullName": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "language": "Python",
-      "stars": "20,956",
-      "momentum": "1,731 stars this week"
+      "stars": "117,862",
+      "momentum": "3,670 stars this week"
     }
   ]
 }
