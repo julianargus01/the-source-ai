@@ -5,120 +5,120 @@
       "url": "https://github.com/sponsors/elementalsouls",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": "15,755",
-      "momentum": "1,794 stars today"
+      "stars": "17,484",
+      "momentum": "1,721 stars today"
     },
     {
       "fullName": "sponsors/obra",
       "url": "https://github.com/sponsors/obra",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "323,606",
-      "momentum": "884 stars today"
+      "stars": "324,049",
+      "momentum": "785 stars today"
     },
     {
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": "61,964",
-      "momentum": "767 stars today"
+      "stars": "62,674",
+      "momentum": "687 stars today"
     },
     {
       "fullName": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": "68,086",
-      "momentum": "488 stars today"
+      "stars": "68,576",
+      "momentum": "473 stars today"
     },
     {
       "fullName": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": "18,060",
-      "momentum": "261 stars today"
+      "stars": "18,393",
+      "momentum": "301 stars today"
     },
     {
       "fullName": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars": "206,028",
-      "momentum": "999 stars today"
+      "stars": "206,882",
+      "momentum": "910 stars today"
     },
     {
       "fullName": "nginx/nginx",
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": "32,706",
-      "momentum": "195 stars today"
+      "stars": "32,858",
+      "momentum": "168 stars today"
     },
     {
       "fullName": "openvinotoolkit/openvino",
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": "11,901",
-      "momentum": "202 stars today"
+      "stars": "12,067",
+      "momentum": "155 stars today"
     },
     {
       "fullName": "sponsors/cathrynlavery",
       "url": "https://github.com/sponsors/cathrynlavery",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": "69,738",
-      "momentum": "582 stars today"
+      "stars": "70,217",
+      "momentum": "513 stars today"
     },
     {
       "fullName": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": "71,895",
-      "momentum": "566 stars today"
+      "stars": "72,602",
+      "momentum": "673 stars today"
     },
     {
       "fullName": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": "11,353",
-      "momentum": "324 stars today"
+      "stars": "11,850",
+      "momentum": "516 stars today"
     },
     {
       "fullName": "sponsors/mjmirza",
       "url": "https://github.com/sponsors/mjmirza",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": "3,287",
-      "momentum": "724 stars today"
+      "stars": "3,879",
+      "momentum": "617 stars today"
     },
     {
       "fullName": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "stars": "13,914",
-      "momentum": "450 stars today"
+      "stars": "14,338",
+      "momentum": "395 stars today"
     },
     {
       "fullName": "sponsors/toeverything",
       "url": "https://github.com/sponsors/toeverything",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars": "76,188",
-      "momentum": "577 stars today"
+      "stars": "76,733",
+      "momentum": "537 stars today"
     },
     {
       "fullName": "XiaoYouChR/Ghost-Downloader-3",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars": "14,346",
-      "momentum": "774 stars today"
+      "stars": "15,026",
+      "momentum": "690 stars today"
     }
   ],
   "weekly": [
@@ -127,104 +127,104 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars": "14,122",
-      "momentum": "3,555 stars this week"
+      "stars": "14,378",
+      "momentum": "3,396 stars this week"
     },
     {
       "fullName": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": "11,353",
-      "momentum": "2,152 stars this week"
+      "stars": "11,850",
+      "momentum": "2,431 stars this week"
     },
     {
       "fullName": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars": "9,838",
-      "momentum": "5,224 stars this week"
+      "stars": "10,165",
+      "momentum": "4,400 stars this week"
     },
     {
       "fullName": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": "55,046",
-      "momentum": "4,457 stars this week"
+      "stars": "55,361",
+      "momentum": "4,032 stars this week"
     },
     {
       "fullName": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": "71,895",
-      "momentum": "3,788 stars this week"
+      "stars": "72,602",
+      "momentum": "4,198 stars this week"
     },
     {
       "fullName": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": "58,670",
-      "momentum": "3,306 stars this week"
+      "stars": "58,818",
+      "momentum": "2,795 stars this week"
     },
     {
       "fullName": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars": "7,584",
-      "momentum": "3,471 stars this week"
+      "stars": "7,763",
+      "momentum": "3,113 stars this week"
     },
     {
       "fullName": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
-      "stars": "20,988",
-      "momentum": "3,621 stars this week"
+      "stars": "21,167",
+      "momentum": "3,792 stars this week"
     },
     {
       "fullName": "meta/astryx",
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": "31,730",
-      "momentum": "4,131 stars this week"
+      "stars": "32,158",
+      "momentum": "3,967 stars this week"
     },
     {
       "fullName": "pookjw/HermesEnabler",
       "url": "https://github.com/pookjw/HermesEnabler",
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
-      "stars": "2,344",
-      "momentum": "582 stars this week"
+      "stars": "2,396",
+      "momentum": "524 stars this week"
     },
     {
       "fullName": "we-promise/sure",
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars": "17,104",
-      "momentum": "2,476 stars this week"
+      "stars": "17,306",
+      "momentum": "2,041 stars this week"
     },
     {
       "fullName": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars": "31,074",
-      "momentum": "7,539 stars this week"
+      "stars": "31,233",
+      "momentum": "7,240 stars this week"
     },
     {
       "fullName": "sponsors/kajisho5",
       "url": "https://github.com/sponsors/kajisho5",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
-      "stars": "9,209",
-      "momentum": "3,268 stars this week"
+      "stars": "9,643",
+      "momentum": "3,598 stars this week"
     }
   ]
 }
