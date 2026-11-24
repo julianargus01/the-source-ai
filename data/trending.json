@@ -3,122 +3,122 @@
     {
       "fullName": "sponsors/elementalsouls",
       "url": "https://github.com/sponsors/elementalsouls",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": "19,757",
-      "momentum": "2,029 stars today"
+      "stars": "21,370",
+      "momentum": "1,833 stars today"
     },
     {
       "fullName": "sponsors/obra",
       "url": "https://github.com/sponsors/obra",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "325,062",
-      "momentum": "840 stars today"
+      "stars": "325,754",
+      "momentum": "1,006 stars today"
     },
     {
       "fullName": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": "63,624",
-      "momentum": "790 stars today"
+      "stars": "64,681",
+      "momentum": "1,075 stars today"
     },
     {
       "fullName": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": "69,452",
-      "momentum": "828 stars today"
+      "stars": "70,142",
+      "momentum": "727 stars today"
     },
     {
       "fullName": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": "18,802",
-      "momentum": "397 stars today"
+      "stars": "19,172",
+      "momentum": "359 stars today"
     },
     {
       "fullName": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars": "207,918",
-      "momentum": "924 stars today"
+      "stars": "208,883",
+      "momentum": "990 stars today"
     },
     {
       "fullName": "nginx/nginx",
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": "33,050",
-      "momentum": "174 stars today"
+      "stars": "33,207",
+      "momentum": "158 stars today"
     },
     {
       "fullName": "openvinotoolkit/openvino",
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": "12,280",
-      "momentum": "184 stars today"
+      "stars": "12,447",
+      "momentum": "187 stars today"
     },
     {
       "fullName": "sponsors/cathrynlavery",
       "url": "https://github.com/sponsors/cathrynlavery",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": "70,962",
-      "momentum": "620 stars today"
+      "stars": "71,967",
+      "momentum": "794 stars today"
     },
     {
       "fullName": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": "73,435",
-      "momentum": "797 stars today"
+      "stars": "74,157",
+      "momentum": "695 stars today"
     },
     {
       "fullName": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": "12,285",
-      "momentum": "422 stars today"
+      "stars": "12,629",
+      "momentum": "401 stars today"
     },
     {
       "fullName": "sponsors/mjmirza",
       "url": "https://github.com/sponsors/mjmirza",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": "4,964",
-      "momentum": "761 stars today"
+      "stars": "5,811",
+      "momentum": "936 stars today"
     },
     {
       "fullName": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "stars": "14,832",
-      "momentum": "436 stars today"
+      "stars": "15,165",
+      "momentum": "408 stars today"
     },
     {
       "fullName": "sponsors/toeverything",
       "url": "https://github.com/sponsors/toeverything",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars": "77,389",
-      "momentum": "595 stars today"
+      "stars": "77,952",
+      "momentum": "589 stars today"
     },
     {
       "fullName": "XiaoYouChR/Ghost-Downloader-3",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars": "16,308",
-      "momentum": "1,087 stars today"
+      "stars": "17,272",
+      "momentum": "1,102 stars today"
     }
   ],
   "weekly": [
@@ -127,7 +127,7 @@
       "url": "https://github.com/backnotprop/plannotator",
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
-      "stars": "14,663",
+      "stars": "14,877",
       "momentum": "2,395 stars this week"
     },
     {
@@ -135,7 +135,7 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": "12,285",
+      "stars": "12,629",
       "momentum": "2,572 stars this week"
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars": "10,513",
+      "stars": "10,798",
       "momentum": "2,694 stars this week"
     },
     {
@@ -151,7 +151,7 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": "55,687",
+      "stars": "56,040",
       "momentum": "3,015 stars this week"
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": "73,435",
+      "stars": "74,157",
       "momentum": "5,448 stars this week"
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": "59,025",
+      "stars": "59,204",
       "momentum": "1,581 stars this week"
     },
     {
@@ -175,7 +175,7 @@
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
-      "stars": "8,041",
+      "stars": "8,283",
       "momentum": "1,903 stars this week"
     },
     {
@@ -183,7 +183,7 @@
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
-      "stars": "21,377",
+      "stars": "21,555",
       "momentum": "2,966 stars this week"
     },
     {
@@ -191,7 +191,7 @@
       "url": "https://github.com/meta/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": "32,572",
+      "stars": "32,859",
       "momentum": "3,165 stars this week"
     },
     {
@@ -199,7 +199,7 @@
       "url": "https://github.com/pookjw/HermesEnabler",
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
-      "stars": "2,446",
+      "stars": "2,488",
       "momentum": "390 stars this week"
     },
     {
@@ -207,7 +207,7 @@
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
-      "stars": "17,567",
+      "stars": "17,765",
       "momentum": "1,612 stars this week"
     },
     {
@@ -215,7 +215,7 @@
       "url": "https://github.com/dream-num/univer",
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
-      "stars": "31,459",
+      "stars": "31,679",
       "momentum": "4,324 stars this week"
     },
     {
@@ -223,7 +223,7 @@
       "url": "https://github.com/sponsors/kajisho5",
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
-      "stars": "10,226",
+      "stars": "10,649",
       "momentum": "3,891 stars this week"
     }
   ]
